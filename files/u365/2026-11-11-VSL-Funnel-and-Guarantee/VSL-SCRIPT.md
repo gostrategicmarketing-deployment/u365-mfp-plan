@@ -95,15 +95,13 @@ Because right now, there's no manager. And anything in your business without a m
 
 ON SCREEN: 1. Your numbers  2. Your Blueprint  3. Execute with accountability
 
-So we put a manager on it. It's called Mindset, Fitness and Performance. Twelve months, three steps. **[PENDING Josh: confirm the name Sean says. Older pages say "Mindset, Nutrition and Fitness".]**
+So we put a manager on it. It's called Mindset, Fitness and Performance. Not a program. A partnership. `[live /mfp page]` Twelve months, three steps.
 
 Step one. Your numbers. Think of it like a P&L for your business, but for you. `[Sean, podcast 7:36, reworded]` We find out exactly where you are today, so nothing about your plan is a guess.
 
-Step two. Your Blueprint. No crazy plan. For most guys it starts with three days a week in the gym and nutrition dialed in, `[Sean, podcast 11:09 to 11:50]` built around your job sites and your travel.
+Step two. Your Blueprint. Custom training I build for you, adjusted as you progress, and a nutrition strategy built around your real life. `[live /mfp page]` No crazy plan. For most guys it starts with three days a week in the gym, `[Sean, podcast 11:09 to 11:50]` built around your job sites and your travel.
 
-Step three. Execute with accountability. This is where the mindset and the habits get built. We track it in our app. Weekly check-ins on your training, your food and your habits. Weekly coaching calls. A team that calls when you slip. And direct access to me.
-
-**[PENDING: Josh confirms the MFP inclusions Sean names: app tracking, weekly check-ins, weekly calls, direct access to Sean.]**
+Step three. Execute with accountability. This is where the mindset and the habits get built. Weekly coaching calls. Coaching between sessions, with habit reminders and progress tracking. A private circle of men doing the same work. And direct access to me between sessions. `[live /mfp page "What you get"]`
 
 You run the business. We manage the department you've been ignoring.
 

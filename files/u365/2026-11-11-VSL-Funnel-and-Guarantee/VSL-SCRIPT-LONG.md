@@ -103,18 +103,16 @@ Because right now, there's no manager. You'd never let a crew run without a lead
 
 ON SCREEN: 1. Your numbers  2. Your Blueprint  3. Execute with accountability
 
-So we put a manager on it. It's called Mindset, Fitness and Performance. Twelve months, three steps. **[PENDING Josh: confirm the name Sean says. Older pages say "Mindset, Nutrition and Fitness".]**
+So we put a manager on it. It's called Mindset, Fitness and Performance. Not a program. A partnership. `[live /mfp page]` Twelve months, three steps.
 
 **Step one. Your numbers.**
 Think of it like a P&L for your business, but for you. `[Sean, podcast 7:36, reworded]` We find out exactly where you are today, so nothing about your plan is a guess.
 
 **Step two. Your Blueprint.**
-I'm not going to put you on some crazy plan that beats you down and has you dragging at work. `[Sean, podcast 11:30]` I meet you where you're at. `[Sean, podcast 11:09]` For most guys it starts with three days a week in the gym and nutrition dialed in. `[Sean, podcast 11:50]` Training built around your job sites and your travel. Food that works at a gas station at six in the morning, not just in a perfect kitchen.
+I'm not going to put you on some crazy plan that beats you down and has you dragging at work. `[Sean, podcast 11:30]` I meet you where you're at. `[Sean, podcast 11:09]` Custom training I build for you, adjusted as you progress. `[live /mfp page]` For most guys it starts with three days a week in the gym and nutrition dialed in. `[Sean, podcast 11:50]` Training built around your job sites and your travel. Food that works at a gas station at six in the morning, not just in a perfect kitchen.
 
 **Step three. Execute with accountability.**
-This is the part everybody else skips, and it's where the mindset and the habits get built. We track it in our app. Weekly check-ins on your training, your food and your habits. Weekly coaching calls. It goes in the calendar like any other meeting. `[Sean, GS26 48:09]` A team that calls when you slip. And direct access to me.
-
-**[PENDING: Josh confirms the MFP inclusions Sean names: app tracking, weekly check-ins, weekly calls, direct access to Sean.]**
+This is the part everybody else skips, and it's where the mindset and the habits get built. Weekly coaching calls. It goes in the calendar like any other meeting. `[Sean, GS26 48:09]` Coaching between sessions, with habit reminders and progress tracking. A private circle of men doing the same work. And direct access to me between sessions. `[live /mfp page "What you get"]`
 
 And I coach every man differently. Some guys want a drill sergeant. Some guys need to understand why it matters. Part of my job is figuring out which one you are. `[Sean, podcast 1:04:16]`
 
