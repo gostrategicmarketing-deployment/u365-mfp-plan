@@ -1,13 +1,11 @@
-/* U365 VSL funnel prototype logic, v2 (2 pages). The application sits under the VSL on the same page.
-   In HighLevel AI Studio it becomes a GHL survey with conditional logic, followed by the embed of
-   calendar EPviYyuThyCTe6tGVPLP (Performance Accelerator Consultation). A "no" on either qualifier
-   shows a short note on the same page and sends the owner to the existing /protocol page. */
+/* U365 VSL funnel prototype logic (2 pages). The application sits under the VSL on the same page.
+   Booking uses the LIVE unstoppable365.com consult calendar EPviYyuThyCTe6tGVPLP (HighLevel booking
+   widget, the one /octconsult uses), loaded only when the man reaches the calendar step and prefilled
+   with his name, email and phone. A "no" on either qualifier sends him to the existing /protocol page. */
 var U365 = {
   CALENDAR_ID: 'EPviYyuThyCTe6tGVPLP',
-  PROTOCOL_URL: 'https://unstoppable365.com/protocol',
-  SLOT_HOURS_ET: [10,11,12,13,14,15,16,17,18], // sample PA slots in ET; real availability comes from GHL
-  LOCAL_WINDOW: [9, 19],           // call must start 9 AM to 7 PM in the lead's own zone (ends by 8 PM, U365 rule 11)
-  DAYS_OPEN: 5                     // next 5 weekdays, tomorrow onward
+  CALENDAR_URL: 'https://api.leadconnectorhq.com/widget/booking/EPviYyuThyCTe6tGVPLP',
+  PROTOCOL_URL: 'https://unstoppable365.com/protocol'
 };
 
 /* ---------- storage helpers (never required) ---------- */
@@ -120,43 +118,17 @@ function startApply(){
     show(idx + 1, true);
   });
 
-  var picked = null;
   function buildCalendar(){
-    var days = root.querySelector('.days'), slots = root.querySelector('.slots'), go = root.querySelector('#book-btn');
-    root.querySelector('.tz').textContent = tzName();
-    if (days.children.length) return;
-    var d = new Date(); d.setHours(12,0,0,0);
-    var list = [];
-    while (list.length < U365.DAYS_OPEN){
-      d.setDate(d.getDate() + 1);
-      if (d.getDay() === 0 || d.getDay() === 6) continue;
-      list.push(new Date(d));
-    }
-    list.forEach(function(day, n){
-      var b = document.createElement('button'); b.type = 'button'; b.className = 'day' + (n ? '' : ' sel');
-      b.innerHTML = day.toLocaleDateString([], {weekday:'short'}) + '<b>' + day.getDate() + '</b>' + day.toLocaleDateString([], {month:'short'});
-      b.onclick = function(){ days.querySelectorAll('.day').forEach(function(x){x.classList.remove('sel');}); b.classList.add('sel'); fill(day); };
-      days.appendChild(b);
-    });
-    fill(list[0]);
-    function fill(day){
-      slots.innerHTML = ''; picked = null; go.disabled = true;
-      var y = day.getFullYear(), m = day.getMonth(), dd = day.getDate();
-      U365.SLOT_HOURS_ET.forEach(function(h, k){
-        if ((dd * 7 + k * 3) % 5 === 0) return; // stable "booked" gaps so the mock looks real
-        var dt = etDate(y, m, dd, h), lh = localHour(dt);
-        if (lh < U365.LOCAL_WINDOW[0] || lh > U365.LOCAL_WINDOW[1]) return;
-        var s = document.createElement('button'); s.type = 'button'; s.className = 'slot'; s.textContent = fmtTime(dt);
-        s.onclick = function(){ slots.querySelectorAll('.slot').forEach(function(x){x.classList.remove('sel');}); s.classList.add('sel'); picked = dt; go.disabled = false; };
-        slots.appendChild(s);
-      });
-      if (!slots.children.length) slots.innerHTML = '<p class="micro">No open times that day. Try another day.</p>';
-    }
-    go.onclick = function(){
-      if (!picked) return;
-      answers.when = picked.toISOString(); sset('u365_app', answers);
-      location.href = '../confirmed/?t=' + encodeURIComponent(answers.when) + '&n=' + encodeURIComponent(answers.first || '');
-    };
+    var f = document.getElementById('ghl-cal');
+    if (!f || f.getAttribute('src')) return;
+    var q = new URLSearchParams();
+    if (answers.first) q.set('first_name', answers.first);
+    if (answers.email) q.set('email', answers.email);
+    if (answers.phone) q.set('phone', answers.phone);
+    var attr = sget('u365_attr') || {};
+    Object.keys(attr).forEach(function(k){ if (attr[k]) q.set(k, attr[k]); });
+    f.id = U365.CALENDAR_ID + '_' + Date.now();   // form_embed.js sizes the frame by this id
+    f.src = U365.CALENDAR_URL + (q.toString() ? '?' + q.toString() : '');
   }
   show(0, false);
 }

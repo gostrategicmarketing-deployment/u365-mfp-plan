@@ -24,7 +24,22 @@ Laid out like Supra Human's "Zero Risk" band: big two-line headline, one short l
 >
 > *Set your goals with your coach in your first two weeks. Show up to 80% of your coaching calls and complete 80% of your weekly check-ins for 12 months. If you haven't hit those goals, we keep coaching you at no cost for up to 6 more months. Plus the 30-Day Gut Check: paid in full and not the best coaching you've ever had, every dollar back. Financed plans are not eligible for a refund.*
 
-Both keep the conditions in plain sight (FTC), promise no body or health result, and say nothing medical. "No questions asked" is left out on purpose, because the refund has conditions.
+**Option 3 (the boldest: a weight goal, which Josh says U365 can promise)**
+
+> **ZERO RISK**
+> **HIT YOUR GOAL WEIGHT, OR YOU DON'T PAY.**
+> SET IT WITH YOUR COACH. DO THE WORK. WE'RE ON THE HOOK.
+> [ BECOME UNSTOPPABLE → ]
+>
+> *Paid-in-full purchases. In your first two weeks you and your coach set a realistic goal weight in writing. Show up to [80%] of your coaching calls, complete [80%] of your weekly check-ins and follow your Blueprint for 12 months. If you haven't reached that goal weight, we refund every dollar you paid. Financed plans are not eligible for a refund. Individual results vary.*
+
+Option 3 is the closest to Supra Human's "Get Ripped, or you don't pay". Before Josh signs it:
+- **Josh decides the payout:** a full refund at month 12 (as written), or "we coach you free until you hit it". A full refund is the stronger promise and the bigger exposure.
+- **Keep it on the VSL page and the call, not in cold ads.** Meta restricts weight-loss ads (no before-and-after, nothing that makes him feel bad about his body), so the ads keep selling the owner's edge and send him to the page.
+- **"Goal weight" is the only health word in it.** No labs, hormones or medical language, so it stays inside the no-medical rule.
+- **The FTC requires U365 to honor it exactly as written,** so the goal has to be set and signed in writing at onboarding.
+
+Options 1 and 2 promise no body result at all. All three keep the conditions in plain sight and say nothing medical. "No questions asked" is left out on purpose, because the refund has conditions.
 
 ## The rules it has to fit
 

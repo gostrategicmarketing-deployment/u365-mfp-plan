@@ -11,6 +11,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Kanit:wght@500;600;700&family=Lexend+Deca:wght@400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../assets/css/u365.css">
 <script src="../assets/js/funnel.js" defer></script>
+<script src="https://link.msgsndr.com/js/form_embed.js" defer></script>
 </head>
 <body>
 <div class="proto">Prototype for review. Build in HighLevel AI Studio, preview address only, until Josh approves.</div>
@@ -52,7 +53,6 @@
         <button class="opt" data-v="yes">Yes, $1M or more</button>
         <button class="opt" data-v="no">Not yet</button>
       </div>
-      <span class="note">Josh: confirm $1M is the floor</span>
       <br><button class="back" type="button">&larr; Back</button>
     </div>
 
@@ -86,11 +86,9 @@
 
     <div class="step" data-step="calendar">
       <p class="q">Pick a time for your 60-minute call</p>
-      <p class="micro" style="margin:-8px 0 16px">Times shown in <span class="tz"></span>. Zoom call with the Unstoppable 365 team. No cost for the call.</p>
-      <!-- AI Studio: replace this mock with the GHL embed of calendar EPviYyuThyCTe6tGVPLP, prefilled with the contact above -->
-      <div class="days"></div>
-      <div class="slots"></div>
-      <button id="book-btn" class="btn block" type="button" style="margin-top:18px" disabled>Book my call</button>
+      <p class="micro" style="margin:-8px 0 12px">Zoom call with the Unstoppable 365 team. No cost for the call.</p>
+      <span class="note">Live U365 calendar from unstoppable365.com (the same one /octconsult uses). Picking a time books a real call.</span>
+      <div class="cal-embed"><iframe id="ghl-cal" title="Pick a time for your call" scrolling="no"></iframe></div>
       <button class="back" type="button">&larr; Back</button>
     </div>
 

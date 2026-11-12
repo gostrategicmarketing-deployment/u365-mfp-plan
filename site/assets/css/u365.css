@@ -115,3 +115,5 @@ html{scroll-behavior:smooth}
 .zr-head{font-size:clamp(26px,5vw,38px);margin:12px auto 8px;max-width:620px}
 .zr-sub{font:700 15px/1.2 var(--head);letter-spacing:.14em;text-transform:uppercase;color:var(--white);margin:0 0 18px}
 .zr-terms{text-align:left;border-top:1px solid #3a3215;padding-top:16px}
+.cal-embed{margin-top:10px;background:transparent;border-radius:var(--r);overflow:hidden}
+.cal-embed iframe{display:block;width:100%;min-height:760px;border:0;overflow:hidden}
