@@ -2,6 +2,30 @@
 
 Nothing here goes on a page, ad, email or call script until Josh signs one version in his own chat.
 
+## The VSL page banner (for approval)
+
+Laid out like Supra Human's "Zero Risk" band: big two-line headline, one short line, one button, fine print under it.
+
+**Option 1 (recommended)**
+
+> **ZERO RISK**
+> **THE BEST COACHING YOU'VE EVER HAD, OR YOU DON'T PAY.**
+> DO THE WORK FOR 30 DAYS. NO HOOPS. NO HARD FEELINGS.
+> [ BECOME UNSTOPPABLE → ]
+>
+> *Paid-in-full purchases. Complete onboarding, show up to your calls and follow your Blueprint for 30 days. If you don't believe it's the best coaching you've ever had, tell us by day 30 and we refund every dollar. Financed plans are not eligible for a refund. Full terms in the MFP terms.*
+
+**Option 2 (leads with Part 2)**
+
+> **ZERO RISK**
+> **HIT YOUR GOALS, OR WE COACH YOU FREE.**
+> WE DON'T QUIT ON YOU.
+> [ BECOME UNSTOPPABLE → ]
+>
+> *Set your goals with your coach in your first two weeks. Show up to 80% of your coaching calls and complete 80% of your weekly check-ins for 12 months. If you haven't hit those goals, we keep coaching you at no cost for up to 6 more months. Plus the 30-Day Gut Check: paid in full and not the best coaching you've ever had, every dollar back. Financed plans are not eligible for a refund.*
+
+Both keep the conditions in plain sight (FTC), promise no body or health result, and say nothing medical. "No questions asked" is left out on purpose, because the refund has conditions.
+
 ## The rules it has to fit
 
 - **MFP ($7,500 a year): money back, except for buyers who finance.**
