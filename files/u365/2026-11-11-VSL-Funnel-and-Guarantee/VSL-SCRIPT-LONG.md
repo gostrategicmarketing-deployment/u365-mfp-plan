@@ -124,7 +124,7 @@ B-ROLL: Sean with his kids only if Sean offers real family footage. Otherwise st
 
 I'll be straight with you. I don't spend much time talking about macros. I talk about the man you want to be, and the leader you want to become. `[Sean, GS25 48:44]`
 
-Guys who chase one number hit it, and then they quit. It always comes back to identity. `[Sean, podcast 32:13]`
+Guys who only chase a number hit it, and then they quit. That's why we build the man, not just the number. It always comes back to identity. `[Sean, podcast 32:13]`
 
 Every owner I talk to says the same thing. I did it for my family. But the only thing your family really wants is you. Your energy, your attention, you actually being there. `[Sean, GS26 22:00]`
 
@@ -170,10 +170,10 @@ And when you book, show up. Treat it like the most important meeting on your cal
 
 ## 8:30 The promise (about 89%, the spot Supra Human uses)
 
-ON SCREEN: The Unstoppable Promise
+ON SCREEN: Hit your goal weight, or you don't pay.
 
-**[PENDING: Josh signs the guarantee in GUARANTEE.md. Sean records this paragraph only after that, word for word as signed. The financing line is required by Josh's Nov 12 rule.]**
-Here's my promise. Pay in full, do the first thirty days, show up and follow your Blueprint. If you don't think it's the best coaching you've ever had, you get every dollar back. And if you show up all year and still miss the goals we set together, we keep coaching you, free, for up to six more months. Financed plans aren't covered by the refund. The full terms are right on this page. That's the Unstoppable Promise.
+**[PENDING: Josh signs guarantee option 3 in GUARANTEE.md (the one on the VSL page now). Sean records this paragraph only after that, word for word as signed. Keep this section out of any ad cut-down: Meta restricts weight-loss claims in ads.]**
+Here's my promise. Pay in full, and in your first two weeks you and your coach set a realistic goal weight, in writing. Show up to your calls, do your check-ins and follow your Blueprint for twelve months. If you haven't hit that goal weight, you get every dollar back. Financed plans aren't covered. The full terms are right on this page. That's the Unstoppable Promise.
 
 *Alternate, safe today (no guarantee):* Here's my promise. Show up, and we won't let you hide. Miss a week and you'll hear from us. That's what accountability means here.
 
@@ -199,7 +199,7 @@ Answer the questions below. Let's go.
 - [x] Identity and future pace in Sean's words.
 - [~] Proof: one site quote on screen today (Javier; Ryan's body-change quote was cut to keep the page clear of body claims). Tommy and Lance pending consent. Still the weakest section.
 - [x] Objections head-on: time, travel and job sites, tried before, "a coach can't make me", price.
-- [~] Risk reversal (paid-in-full refund, financed plans excluded) pending Josh's signature. The safe alternate carries it until then.
+- [~] Risk reversal ("hit your goal weight, or you don't pay", paid in full, financed plans excluded) pending Josh's signature. The safe alternate carries it until then.
 - [x] CTA early (about 25% in), repeated with the filter at the end, plus the show-up instruction aimed at the show rate.
 - [x] Compliance: no medical language at all (no doctor, diagnosis, drugs, labs, medical team, hormones, peptides or weight-loss claims); no body or health outcome promised; refund conditions said out loud; testimonials with "Individual results vary."
 

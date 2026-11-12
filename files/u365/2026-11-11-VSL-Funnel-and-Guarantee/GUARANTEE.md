@@ -75,7 +75,7 @@ Options 1 and 2 promise no body result at all. All three keep the conditions in 
 
 | Place | Wording |
 |---|---|
-| VSL, about 88% in (4:50 short, 8:30 long) | Sean reads it word for word, including "financed plans aren't covered" |
+| VSL, about 88% in (both cuts) | Sean reads option 3 word for word, including "financed plans aren't covered" (in both scripts now, pending) |
 | VSL page, under the application | One line, linking to the full block |
 | VSL page, last block above the final button | The full guarantee, conditions and a terms link |
 | Booked page | "Backed by the Unstoppable Promise." |

@@ -35,7 +35,7 @@ It's the most important meeting on your calendar this week. Show up. Let's go.
 - **Gives him something to look forward to:** a clear look at where he is and what the next twelve months could be, in the same "put a manager on it" language as the VSL.
 - **The same three actions as the page,** in the same order (CONFIRM, block the hour, bring one thing), so the video and the page say one thing.
 - **Ends on the line from the VSL** ("the most important meeting on your calendar this week"), so men who watched the VSL hear it twice.
-- **Stays inside the rules:** no outcome, health or weight claims, no guarantee (the page carries that line once Josh signs), and no promise that Sean takes the call.
+- **Stays inside the rules:** no health claims and no guarantee in Sean's words (the page carries the goal-weight guarantee line once Josh signs), and no promise that Sean takes the call.
 
 ## Teleprompter (Sean's lines only)
 
