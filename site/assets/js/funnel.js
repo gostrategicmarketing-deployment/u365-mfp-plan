@@ -129,6 +129,11 @@ function startApply(){
     Object.keys(attr).forEach(function(k){ if (attr[k]) q.set(k, attr[k]); });
     f.id = U365.CALENDAR_ID + '_' + Date.now();   // form_embed.js sizes the frame by this id
     f.src = U365.CALENDAR_URL + (q.toString() ? '?' + q.toString() : '');
+    // HighLevel's embed script grows the frame to fit every time slot. Load it after the frame exists,
+    // so it finds the frame; until it does, the frame scrolls on its own.
+    if (!document.querySelector('script[src*="form_embed"]')){
+      var s = document.createElement('script'); s.src = 'https://link.msgsndr.com/js/form_embed.js'; document.body.appendChild(s);
+    }
   }
   show(0, false);
 }

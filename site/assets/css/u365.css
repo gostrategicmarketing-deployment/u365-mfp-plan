@@ -116,4 +116,4 @@ html{scroll-behavior:smooth}
 .zr-sub{font:700 15px/1.2 var(--head);letter-spacing:.14em;text-transform:uppercase;color:var(--white);margin:0 0 18px}
 .zr-terms{text-align:left;border-top:1px solid #3a3215;padding-top:16px}
 .cal-embed{margin-top:10px;background:transparent;border-radius:var(--r);overflow:hidden}
-.cal-embed iframe{display:block;width:100%;min-height:760px;border:0;overflow:hidden}
+.cal-embed iframe{display:block;width:100%;min-height:640px;border:0}
