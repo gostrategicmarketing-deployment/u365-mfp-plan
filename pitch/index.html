@@ -1,0 +1,360 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta name="robots" content="noindex, nofollow">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>U365 MFP Plan</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Kanit:wght@500;700&family=Lexend+Deca:wght@300;400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0B0B0B;
+    --bg-2: #141414;
+    --bg-3: #1C1C1C;
+    --line: #2A2A2A;
+    --text: #FFFFFF;
+    --muted: #B8B8B8;
+    --gold: #FBC02D;
+    --gold-dim: rgba(251, 192, 45, 0.12);
+    --red: #E5484D;
+    --green: #3DD68C;
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: "Lexend Deca", system-ui, sans-serif;
+    font-weight: 300;
+    line-height: 1.6;
+    font-size: 17px;
+  }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 0 16px; }
+  header.hero {
+    border-bottom: 1px solid var(--line);
+    padding: 64px 0 48px;
+    background: radial-gradient(ellipse at 20% 0%, rgba(251,192,45,0.10), transparent 60%), var(--bg);
+  }
+  .eyebrow {
+    font-family: "Kanit", sans-serif; font-weight: 500; letter-spacing: 0.14em;
+    text-transform: uppercase; color: var(--gold); font-size: 13px; margin: 0 0 14px;
+  }
+  h1, h2 {
+    font-family: "Anton", Impact, sans-serif; font-weight: 400; text-transform: uppercase;
+    line-height: 1.02; margin: 0; letter-spacing: 0.01em;
+  }
+  h1 { font-size: clamp(40px, 8vw, 76px); }
+  h1 .gold, h2 .gold { color: var(--gold); }
+  h2 { font-size: clamp(30px, 5vw, 46px); margin-bottom: 18px; }
+  h3 {
+    font-family: "Kanit", sans-serif; font-weight: 700; font-size: 20px; margin: 0 0 8px;
+    letter-spacing: 0.01em;
+  }
+  .lede { font-size: 20px; color: var(--muted); max-width: 720px; margin: 22px 0 0; }
+  .lede strong { color: var(--text); font-weight: 600; }
+  section { padding: 56px 0; border-bottom: 1px solid var(--line); }
+  p { margin: 0 0 14px; }
+  strong { font-weight: 600; }
+  .muted { color: var(--muted); }
+  .small { font-size: 14px; }
+  .gold { color: var(--gold); }
+
+  /* numbers strip */
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-top: 28px; }
+  .stat { background: var(--bg-2); border: 1px solid var(--line); padding: 18px 16px; position: relative; }
+  .stat .n { font-family: "Anton", sans-serif; font-size: 40px; line-height: 1; }
+  .stat .l { color: var(--muted); font-size: 14px; margin-top: 6px; }
+  .stat.alert .n { color: var(--red); }
+  .note { font-size: 13px; color: var(--muted); margin-top: 10px; }
+
+  /* cards */
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+  .card { background: var(--bg-2); border: 1px solid var(--line); padding: 20px; position: relative; }
+  .card p:last-child { margin-bottom: 0; }
+  .card .tag {
+    display: inline-block; font-family: "Kanit", sans-serif; font-weight: 500; font-size: 12px;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--gold); margin-bottom: 8px;
+  }
+  .notch::before, .notch::after {
+    content: ""; position: absolute; width: 14px; height: 14px; border-color: var(--gold); border-style: solid;
+  }
+  .notch::before { top: -1px; left: -1px; border-width: 2px 0 0 2px; }
+  .notch::after { bottom: -1px; right: -1px; border-width: 0 2px 2px 0; }
+
+  /* lessons list */
+  ol.lessons { list-style: none; padding: 0; margin: 0; counter-reset: l; display: grid; gap: 12px; }
+  ol.lessons li {
+    counter-increment: l; background: var(--bg-2); border: 1px solid var(--line);
+    padding: 18px 18px 18px 64px; position: relative;
+  }
+  ol.lessons li::before {
+    content: counter(l, decimal-leading-zero); position: absolute; left: 18px; top: 16px;
+    font-family: "Anton", sans-serif; font-size: 26px; color: var(--gold);
+  }
+  ol.lessons .so { display: block; margin-top: 8px; color: var(--muted); font-size: 15px; }
+  ol.lessons .so b { color: var(--gold); font-weight: 600; }
+
+  /* funnel flow */
+  .flow { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin: 8px 0 22px; }
+  .step { background: var(--bg-2); border: 1px solid var(--line); padding: 16px 14px; position: relative; }
+  .step .k { font-family: "Kanit", sans-serif; font-weight: 700; font-size: 15px; text-transform: uppercase; color: var(--gold); letter-spacing: 0.06em; }
+  .step .t { font-size: 14px; color: var(--muted); margin-top: 6px; line-height: 1.45; }
+  .step:not(:last-child)::after {
+    content: "\203A"; position: absolute; right: -10px; top: 50%; transform: translateY(-50%);
+    color: var(--gold); font-size: 22px; z-index: 1;
+  }
+
+  /* table */
+  .tbl { width: 100%; border-collapse: collapse; font-size: 15px; }
+  .tbl th, .tbl td { text-align: left; padding: 12px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  .tbl th { font-family: "Kanit", sans-serif; font-weight: 500; text-transform: uppercase; letter-spacing: 0.08em; font-size: 12px; color: var(--gold); }
+  .tbl td:first-child { font-weight: 600; white-space: nowrap; }
+  .tbl-wrap { overflow-x: auto; border: 1px solid var(--line); background: var(--bg-2); }
+
+  /* checklist */
+  ul.check { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
+  ul.check li { padding: 14px 16px 14px 46px; background: var(--bg-2); border: 1px solid var(--line); position: relative; }
+  ul.check li::before {
+    content: ""; position: absolute; left: 16px; top: 17px; width: 16px; height: 16px;
+    border: 2px solid var(--gold);
+  }
+  ul.check li .who { color: var(--muted); font-size: 14px; }
+
+  ul.plain { margin: 0; padding-left: 20px; }
+  ul.plain li { margin-bottom: 8px; }
+
+  .quote {
+    border-left: 3px solid var(--gold); padding: 6px 0 6px 18px; margin: 18px 0;
+    font-family: "Kanit", sans-serif; font-weight: 500; font-size: 22px; line-height: 1.3;
+  }
+  .warn { background: rgba(229,72,77,0.08); border: 1px solid rgba(229,72,77,0.35); padding: 18px 20px; }
+  .warn h3 { color: #FF8A8E; }
+  .callout { background: var(--gold-dim); border: 1px solid rgba(251,192,45,0.35); padding: 18px 20px; }
+  .pill { display: inline-block; font-size: 12px; font-family: "Kanit", sans-serif; letter-spacing: 0.08em; text-transform: uppercase; padding: 2px 8px; border: 1px solid var(--line); color: var(--muted); margin-left: 6px; vertical-align: middle; }
+  .pill.pending { border-color: rgba(251,192,45,0.5); color: var(--gold); }
+
+  footer { padding: 36px 0 60px; color: var(--muted); font-size: 13px; }
+  footer p { margin-bottom: 8px; }
+
+  @media (max-width: 860px) {
+    .flow { grid-template-columns: 1fr; }
+    .step:not(:last-child)::after { content: "\2304"; right: auto; left: 50%; top: auto; bottom: -16px; transform: translateX(-50%); }
+    .grid-3 { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 680px) {
+    body { font-size: 16px; }
+    .stats { grid-template-columns: 1fr 1fr; }
+    .grid-2 { grid-template-columns: 1fr; }
+    header.hero { padding: 44px 0 36px; }
+    section { padding: 44px 0; }
+    .tbl td:first-child { white-space: normal; }
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <p class="eyebrow">Unstoppable 365 &middot; Mindset, Fitness and Performance &middot; For approval</p>
+    <h1>Let Sean sell MFP.<br><span class="gold">Then scale what works.</span></h1>
+    <p class="lede">The MFP funnel, ads and Sean's scripts, ready to build once you approve the seven items below. <strong>Same budget, warmer calls, and a scoreboard that counts calls held, not leads.</strong></p>
+  </div>
+</header>
+
+<section>
+  <div class="wrap">
+    <p class="eyebrow">To approve</p>
+    <h2>Seven items<br><span class="gold">to approve</span></h2>
+    <ul class="check">
+      <li><strong>Go on the plan:</strong> the VSL funnel tested beside /octconsult, at the current spend level. <span class="who">Josh</span></li>
+      <li><strong>The MFP guarantee:</strong> money back, except for buyers who finance. Set the terms Sean will say on camera: how many days, what he has to do to qualify (show up, follow the plan), and whether labs already run are refunded. We recommend tying it to effort or to a goal you set together on the call, not a fixed number of pounds. The 30-day refund in the Unstoppable Promise proposal fits this as written. <span class="pill pending">Proposal ready</span></li>
+      <li><strong>What's in MFP:</strong> confirm the list Sean names on camera: custom training, nutrition, mindset and habit coaching, weekly coaching calls, accountability check-ins and direct access to Sean. Labs and the medical team stay off camera, off the page and out of the ads; the call covers them. <span class="pill pending">Script waits on it</span></li>
+      <li><strong>Which trades go first:</strong> every cold ad names one trade in the first two seconds ("HVAC owners in Arizona") and gets its own ad set and its own ads. The research points to six: HVAC, roofing, plumbing and garage doors (the core owner profile; Sean's best-known client stories come from garage doors and roofing), plus gutters and painting (rooms Sean already keynotes: Gutter Summit, Painter Growth). We don't have numbers yet on which trade books and buys best. Which trades do your current clients come from? We'd start with the top three or four and add the rest once those have a read. One thing to weigh: roofing and HVAC may be in their busy season right now. <span class="who">Josh</span></li>
+      <li><strong>Two qualifying questions</strong> to approve, worded as below: "Do you own a trades or home-service business?" and "Is your business doing at least $1 million in revenue yearly?" <span class="who">Josh</span></li>
+      <li><strong>Written OK</strong> from Tommy Mello and Lance Bachman to appear in the VSL and in ads. <span class="who">Josh, through them</span></li>
+      <li><strong>Sean's story:</strong> does he tell the cell story in the VSL, or use the shorter version? Plus a shoot date. <span class="who">Sean</span></li>
+    </ul>
+  </div>
+</section>
+
+
+<section>
+  <div class="wrap">
+    <p class="eyebrow">The funnel</p>
+    <h2>Two pages.<br><span class="gold">One click to book.</span></h2>
+    <p class="muted">Will puts the application directly under the video, not behind a button on another page. Every extra click loses owners.</p>
+    <div class="flow">
+      <div class="step notch"><div class="k">1. Ad</div><div class="t">Trade or state call-out in 2 seconds. Sean on camera selling MFP. Points to the VSL page, not the calendar.</div></div>
+      <div class="step notch"><div class="k">2. VSL</div><div class="t">Page 1. Sean, about 5 minutes. Owner's Blind Spot, 3 steps, who it's for. He tells them to start the questions at 1:30.</div></div>
+      <div class="step notch"><div class="k">3. Two questions</div><div class="t">Right under the video. Blue-collar business owner? Doing $1M or more a year? A no goes to the existing Protocol page.</div></div>
+      <div class="step notch"><div class="k">4. Book</div><div class="t">Same page, same consult calendar MFP leads already use. Instant text. Answers land on the contact so Alejandro walks in prepared.</div></div>
+      <div class="step notch"><div class="k">5. Show up</div><div class="t">Page 2. Reply CONFIRM, a 50-second Sean welcome video that gets him fired up to show up, bring one list.</div></div>
+    </div>
+    <div class="grid-3">
+      <div class="card">
+        <span class="tag">Already built</span>
+        <p>VSL script in two cuts (about 5:25 and 9:30), the two-page funnel prototype and the AI Studio build brief. All local drafts; nothing is live.</p>
+      </div>
+      <div class="card">
+        <span class="tag">Runs beside, not instead</span>
+        <p>/octconsult stays on as the control. The VSL funnel gets its own tag so the daily report shows booked and held calls for each path side by side.</p>
+      </div>
+      <div class="card">
+        <span class="tag">No workflow edits</span>
+        <p>Bookings land in the same calendar, so your live confirmation, reminder and auto-cancel workflows fire as they do today.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <p class="eyebrow">The traffic</p>
+    <h2>Three layers,<br><span class="gold">one message</span></h2>
+    <div class="tbl-wrap">
+      <table class="tbl">
+        <thead><tr><th>Layer</th><th>Who</th><th>What runs</th><th>Goal</th></tr></thead>
+        <tbody>
+          <tr><td>1. Cold awareness</td><td>Owners who've never heard of Sean: trade and state call-outs, owner interest pockets (outdoors, trucks and tools, business and leadership), plus open targeting as a control</td><td>Sean's 0:00 to 0:45 VSL opening as a standalone ad, plus new openings on the same body. Small budgets, many ad sets.</td><td>Cheap views and clicks from the right men</td></tr>
+          <tr><td>2. Warm to VSL</td><td>Video viewers, page and profile engagers, people who messaged in the last 180 days, followers, site visitors</td><td>Ads that send to /vsl: identity call-outs, objection handling ("no time", "tried before"), proof once consent is in</td><td>Applications and booked calls</td></tr>
+          <tr><td>3. Finish the job</td><td>Watched the VSL but didn't apply; applied but didn't book; booked but cancelled</td><td>Short Sean clips that answer one objection each, plus the show-up message</td><td>Recover the people we already paid for</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="note">Interest pockets have to be checked in Ads Manager on the U365 account before launch. Stack 2 to 3 related interests per ad set and keep each pocket separate, so the results tell us which one works.</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <p class="eyebrow">The creative</p>
+    <h2>Four angles,<br><span class="gold">one Sean shoot</span></h2>
+    <p class="muted">Every ad sells MFP and sends him to Sean's video. Will's rule: test 4 to 5 ads that make different promises, not variations of one idea, then put the winners into their own ad sets and swap their openings.</p>
+    <div class="grid-2">
+      <div class="card notch">
+        <span class="tag">Angle 1</span>
+        <h3>The Blind Spot</h3>
+        <p class="muted">"Every department in your company has a manager. Except one." The VSL's own opening. Makes him feel smart for seeing it, not stupid for missing it.</p>
+      </div>
+      <div class="card notch">
+        <span class="tag">Angle 2</span>
+        <h3>The Leftovers</h3>
+        <p class="muted">The family gets what's left at the end of the day. Built from Sean's own keynote lines about walking in the door with gas left in the tank.</p>
+      </div>
+      <div class="card notch">
+        <span class="tag">Angle 3</span>
+        <h3>After This Busy Season</h3>
+        <p class="muted">Kicking the can. "Just let me get through this season, then I'll get back in the gym." He's said it to himself, word for word.</p>
+      </div>
+      <div class="card notch">
+        <span class="tag">Angle 4</span>
+        <h3>Owner to Owner</h3>
+        <p class="muted">"HVAC owners in Arizona." Trade and state on screen in the first two seconds. Sean talking to one kind of man, in his language.</p>
+      </div>
+    </div>
+    <div class="callout" style="margin-top:16px">
+      <p style="margin-bottom:6px"><strong>Language to lean on:</strong> edge, standard, manager, scoreboard, run it like the business, optimize. These owners say yes to investing in themselves. They tune out "struggling", "overweight" and "unhealthy".</p>
+      <p class="small muted" style="margin:0">That also keeps every ad, the VSL and the page free of medical language, which gets ads flagged. Labs and the medical team are covered on the call.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <p class="eyebrow">Structure and scoreboard</p>
+    <h2>How we spend,<br><span class="gold">how we judge</span></h2>
+    <div class="grid-2">
+      <div class="card">
+        <h3>Structure</h3>
+        <ul class="plain">
+          <li>The VSL campaign optimizes for a <strong>booked call</strong>, not a click or a lead.</li>
+          <li>Ad sets of about <strong>$50 a day</strong>, each holding 3 to 5 ads. Budget sits at the ad set, so every ad gets a real chance.</li>
+          <li>Several angles across many ad sets, so no single ad set carries the budget. Will can't push one ad set much past $200 to $300 a day, even on his call funnel.</li>
+          <li><strong>Total spend stays where it is now.</strong> Split it between /octconsult (control) and /vsl (test). No new money until the numbers earn it.</li>
+          <li>New angles are tested cheaply first: 5 ad sets at $5 a day, one ad each, open targeting, read after 3 to 5 days.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>Scoreboard</h3>
+        <ul class="plain">
+          <li>Judge on <strong>cost per call held</strong> and closed MFP sales. Not cost per lead.</li>
+          <li>Read results over 3 to 7 days. Never kill or scale on one day's numbers.</li>
+          <li>If one ad takes the spend and is in range, leave the others alone. Pull the winner into its own ad set instead.</li>
+          <li>Scale in steps when an ad set stays in range for a full 3 to 5 day cycle.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <p class="eyebrow">Show rate playbook</p>
+    <h2>Every booking<br><span class="gold">earns its seat</span></h2>
+    <div class="grid-3">
+      <div class="card notch">
+        <span class="tag">Before booking</span>
+        <p>The VSL sells the call. Two questions filter for blue-collar owners doing $1M or more. One optional question (what he most wants to change) is a small commitment before he books. Not-yet owners go to Protocol instead of clogging Alejandro's calendar.</p>
+      </div>
+      <div class="card notch">
+        <span class="tag">At booking</span>
+        <p>An instant text, and the four checks (goal, struggle, why now, business situation) asked by the setter or AI setter where a lead comes in by DM. The application answers ride on the contact.</p>
+      </div>
+      <div class="card notch">
+        <span class="tag">Before the call</span>
+        <p>Reply CONFIRM. A 50-second welcome from Sean: what the call is, no pressure, and why it's the most important meeting on his calendar this week. Unconfirmed calls get released, as your workflow already does.</p>
+      </div>
+    </div>
+    <p class="note">Changes to the live AI setter, workflows or forms only happen with your OK, through your team. The Brotherhood form isn't touched.</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <p class="eyebrow">Rollout</p>
+    <h2>Four weeks<br><span class="gold">to a real read</span></h2>
+    <div class="tbl-wrap">
+      <table class="tbl">
+        <thead><tr><th>When</th><th>What</th><th>Who</th></tr></thead>
+        <tbody>
+          <tr><td>Now</td><td>Approve the seven items at the top</td><td>Josh</td></tr>
+          <tr><td>Week 1</td><td>Sean records the VSL once (long cut; the short cut comes from it), the 50-second thank-you video, and 6 to 8 extra openings for ads. AI Studio build at the preview address</td><td>Sean, Ximca, AI Studio</td></tr>
+          <tr><td>Week 2</td><td>You review the preview. On your go: launch /vsl beside /octconsult, angles 1 to 4, short versus long VSL split</td><td>Josh, then us</td></tr>
+          <tr><td>Weeks 3 to 4</td><td>Read booked and held calls per path. Kill what's out of range, swap openings on winners, move the best into new ad sets. Warm and recovery layers switch on as the audiences fill</td><td>Us, weekly report to you</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <p class="eyebrow">Guardrails</p>
+    <h2>What this plan<br><span class="gold">will never do</span></h2>
+    <div class="grid-2">
+      <ul class="plain">
+        <li>Nothing goes live, spends or changes without your OK in your own chat.</li>
+        <li>No medical language in ads, the VSL or the pages: no labs, hormones, peptides, doctors, diagnoses or weight claims. The call covers the medical side.</li>
+        <li>No invented numbers, results or guarantees.</li>
+      </ul>
+      <ul class="plain">
+        <li>Real footage of Sean only. No AI face, no AI voice.</li>
+        <li>Pages built in HighLevel AI Studio only, at the preview address.</li>
+        <li>Men only. Only the U365 ad account and HighLevel location.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p>Prepared by Unicorn Marketers for Unstoppable 365, November 2026. Draft for discussion.</p>
+  </div>
+</footer>
+
+</body>
+</html>
