@@ -17,11 +17,12 @@
 <header class="topbar"><img src="../assets/img/u365-wordmark-white.png" alt="Unstoppable 365"></header>
 
 <!-- HERO + VSL -->
-<section class="center" style="padding-top:28px">
+<section class="center hero">
   <div class="wrap">
     <div class="eyebrow">For 7-figure blue-collar business owners</div>
     <h1>Run your body like<br><span class="gold">you run your business.</span></h1>
-    <p class="lede">You built the company on systems. Your body still runs on coffee and willpower. Watch this 5-minute video from Sean Crane, then answer two quick questions right below it.</p>
+    <p class="lede">You built the company on systems. Your body still runs on coffee and willpower. Watch Sean's 5-minute video, then answer two quick questions and pick a time.</p>
+    <a class="startlink" href="#apply">Start the 2 questions <span aria-hidden="true">&darr;</span></a>
     <div class="vframe">
       <!-- AI Studio: replace with Sean's VSL (GHL media video, autoplay off, captions burned in) -->
       <div class="vplace"><div class="play" aria-hidden="true"></div><strong>Sean's VSL plays here</strong><small>About 5 minutes. Recording pending (script in VSL-SCRIPT.md). Real footage only.</small></div>
@@ -34,23 +35,24 @@
   <!-- AI Studio: a GHL survey with conditional logic, then the embed of calendar EPviYyuThyCTe6tGVPLP on this same page.
        If AI Studio can't show the calendar on this page, the survey redirects to a booking page instead (one more page, same number of clicks). -->
   <div id="apply" class="appshell inline">
-    <div class="eyebrow center">See if you're a fit. Takes about a minute.</div>
+    <div class="eyebrow center">Two quick questions, then pick a time for your free 60-minute call.</div>
+    <p class="stepcount" aria-live="polite">Step 1 of 4</p>
     <div class="progress" aria-hidden="true"><i></i></div>
 
     <div class="step" data-step="owner">
-      <p class="q">Do you own a blue-collar business?</p>
+      <p class="q">Do you own a trades or home-service business?</p>
       <p class="micro" style="margin:-8px 0 16px">Trades, home services, construction or contracting. Owner or co-owner counts.</p>
       <div class="opts">
-        <button class="opt" data-v="yes">Yes, I own one</button>
-        <button class="opt" data-v="no">No</button>
+        <button class="opt" aria-pressed="false" data-v="yes">Yes, I own one</button>
+        <button class="opt" aria-pressed="false" data-v="no">No</button>
       </div>
     </div>
 
     <div class="step" data-step="revenue">
-      <p class="q">Does the business do at least $1 million a year in revenue?</p>
+      <p class="q">Is your business doing at least $1 million in revenue yearly?</p>
       <div class="opts">
-        <button class="opt" data-v="yes">Yes, $1M or more</button>
-        <button class="opt" data-v="no">Not yet</button>
+        <button class="opt" aria-pressed="false" data-v="yes">Yes, $1M or more</button>
+        <button class="opt" aria-pressed="false" data-v="no">Not yet</button>
       </div>
       <br><button class="back" type="button">&larr; Back</button>
     </div>
@@ -59,11 +61,11 @@
       <p class="q">What's the one thing you most want to change?</p>
       <p class="micro" style="margin:-8px 0 16px">Optional. It helps Sean's team prepare for your call.</p>
       <div class="opts">
-        <button class="opt" data-v="energy">More energy through the whole day</button>
-        <button class="opt" data-v="focus">Sharper focus at work</button>
-        <button class="opt" data-v="body">A stronger, fitter body</button>
-        <button class="opt" data-v="home">Being more present at home</button>
-        <button class="opt" data-v="discipline">Consistency and discipline</button>
+        <button class="opt" aria-pressed="false" data-v="energy">More energy through the whole day</button>
+        <button class="opt" aria-pressed="false" data-v="focus">Sharper focus at work</button>
+        <button class="opt" aria-pressed="false" data-v="body">More strength for the work</button>
+        <button class="opt" aria-pressed="false" data-v="home">Being more present at home</button>
+        <button class="opt" aria-pressed="false" data-v="discipline">Consistency and discipline</button>
       </div>
       <button class="skip" type="button">Skip this question</button>
       <span class="note">Optional third question, recommended for show rate. Josh to keep or cut.</span>
@@ -71,13 +73,14 @@
     </div>
 
     <div class="step" data-step="contact">
-      <p class="q">Where should we send your call details?</p>
+      <p class="q">Last step. Where should we send your call details?</p>
       <form id="contact-form" novalidate>
         <label class="f" for="first">First name</label><input class="in" id="first" name="first" autocomplete="given-name">
         <label class="f" for="email">Email</label><input class="in" id="email" name="email" type="email" autocomplete="email">
         <label class="f" for="phone">Mobile</label><input class="in" id="phone" name="phone" type="tel" autocomplete="tel" inputmode="tel">
         <label class="consent"><input type="checkbox" name="sms"><span>Text me about my call. By checking this box you agree to receive texts from Unstoppable 365 about your consultation. Msg and data rates may apply. Reply STOP to opt out.</span></label>
         <button class="btn block" type="submit">Pick my time</button>
+        <p class="micro center" style="margin-top:10px">We only use this to confirm your call.</p>
         <div class="err" role="alert"></div>
       </form>
       <button class="back" type="button">&larr; Back</button>
@@ -105,7 +108,7 @@
     </div>
   </div>
   <!-- One-line guarantee directly under the application, matching Supra Human's line under its first application button. PENDING Josh. -->
-  <p class="promise-line"><span class="pl-tag">Pending Josh</span>The Unstoppable Promise: pay in full, do the work, and if it's not the best coaching you've ever had, <strong>you don't pay.</strong> <a href="#promise">See the terms</a></p>
+  <p class="promise-line"><span class="pl-tag">Pending Josh</span>The Unstoppable Promise: if it's not the best coaching you've ever had, <strong>you don't pay.</strong> Pay in full and do the work for 30 days. Financed plans are not eligible. <a href="#promise">See the terms</a></p>
 </section>
 
 <!-- PROBLEM (live-site copy) -->
@@ -113,11 +116,12 @@
   <div class="wrap">
     <div class="center"><div class="eyebrow">Sound familiar?</div><h2>Your business is thriving.<br><span class="gold">At what cost?</span></h2></div>
     <div class="grid g4" style="margin-top:22px">
-      <div class="card"><h3>Low energy</h3><p>Coffee and energy drinks just to make it through the day.</p></div>
-      <div class="card"><h3>Running on fumes</h3><p>Training gets pushed every time the phone rings.</p></div>
-      <div class="card"><h3>Brain fog</h3><p>Decisions feel heavier. Focus isn't what it used to be.</p></div>
+      <div class="card"><h3>Coffee all day</h3><p>Coffee and energy drinks get you through the day.</p></div>
+      <div class="card"><h3>Training waits</h3><p>Your workout loses to every phone call.</p></div>
+      <div class="card"><h3>Work takes your best</h3><p>The business gets your sharpest hours. You run on what's left.</p></div>
       <div class="card"><h3>Family gets leftovers</h3><p>You give everything to the business. Nothing's left at home.</p></div>
     </div>
+    <div class="cta-band"><p>Ready? Answer two quick questions.</p><a class="btn" href="#apply">See if I'm a fit</a></div>
   </div>
 </section>
 
@@ -129,7 +133,7 @@
     <div class="grid g3" style="margin-top:22px">
       <div class="card"><div class="num">01</div><h3>Get your numbers</h3><p>We find out exactly where you are today, so nothing about your plan is a guess.</p></div>
       <div class="card"><div class="num">02</div><h3>Your Blueprint</h3><p>Training built around your schedule, job sites and travel. Nutrition that works in real life.</p></div>
-      <div class="card"><div class="num">03</div><h3>Execute with accountability</h3><p>Mindset and habits built week by week: a coach and a team who check in, weekly coaching calls, and direct access to Sean.</p></div>
+      <div class="card"><div class="num">03</div><h3>Execute with accountability</h3><p>Weekly coaching calls. A coach who checks in on your habits and mindset. Direct access to Sean.</p></div>
     </div>
   </div>
 </section>
@@ -161,6 +165,7 @@
         <li>You're gathering info for someday</li>
       </ul>
     </div>
+    <div class="cta-band"><p>Ready? Answer two quick questions.</p><a class="btn" href="#apply">See if I'm a fit</a></div>
   </div>
 </section>
 
@@ -169,13 +174,14 @@
   <div class="wrap">
     <div class="center"><div class="eyebrow">From the Unstoppable 365 community</div><h2>Hear it<br><span class="gold">from owners.</span></h2></div>
     <div class="grid g2 testi" style="margin-top:22px;max-width:680px;margin-left:auto;margin-right:auto">
-      <div><video controls playsinline preload="metadata" src="https://assets.cdn.filesafe.space/bl8tiWd4PfK8I7evfp7p/media/6a4fb91b48f33735724abc02.mp4#t=0.5"></video><h3>Tommy Mello</h3></div>
-      <div><video controls playsinline preload="metadata" poster="../assets/img/poster-lance.jpg" src="https://assets.cdn.filesafe.space/bl8tiWd4PfK8I7evfp7p/media/6a4fb91baa5bd78fc6f44a62.mp4"></video><h3>Lance Bachman</h3></div>
+      <div><video controls playsinline preload="none" src="https://assets.cdn.filesafe.space/bl8tiWd4PfK8I7evfp7p/media/6a4fb91b48f33735724abc02.mp4#t=0.5"></video><h3>Tommy Mello</h3></div>
+      <div><video controls playsinline preload="none" poster="../assets/img/poster-lance.jpg" src="https://assets.cdn.filesafe.space/bl8tiWd4PfK8I7evfp7p/media/6a4fb91baa5bd78fc6f44a62.mp4"></video><h3>Lance Bachman</h3></div>
     </div>
     <div class="grid" style="margin-top:22px;max-width:680px;margin-left:auto;margin-right:auto">
       <div class="quote"><p>"Since joining in Sept 2022, once I started taking it seriously, my life drastically changed. My mindset, habits, energy, and resilience to the hardships life throws at you no longer affect me negatively."</p><b>Javier</b></div>
     </div>
     <p class="disclaim center">Individual results vary. These member experiences are not a promise or guarantee of results.</p>
+    <div class="cta-band"><p>Ready? Answer two quick questions.</p><a class="btn" href="#apply">See if I'm a fit</a></div>
   </div>
 </section>
 
@@ -208,7 +214,7 @@
     </div>
     <div class="center" style="margin-top:30px">
       <a class="btn" href="#apply">See if I'm a fit</a>
-      <p class="micro">Spots are limited. We only take the men we can actually coach.</p>
+      <p class="micro">We only take the men we can actually coach.</p>
     </div>
   </div>
 </section>

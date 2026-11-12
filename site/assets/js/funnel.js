@@ -31,7 +31,7 @@ function sset(k,v){ try { sessionStorage.setItem(k, JSON.stringify(v)); } catch(
 document.addEventListener('DOMContentLoaded', function(){
   var s = document.querySelector('.sticky'), anchor = document.getElementById('apply');
   if (!s || !anchor) return;
-  function check(){ s.classList.toggle('show', anchor.getBoundingClientRect().bottom < 0); }
+  function check(){ var r = anchor.getBoundingClientRect(); s.classList.toggle('show', r.bottom < 0 || r.top > innerHeight); }
   addEventListener('scroll', check, {passive:true}); check();
 });
 
@@ -63,8 +63,8 @@ function startApply(){
   var answers = sget('u365_app') || {};
   var idx = 0;
   var NOT_YET = {
-    owner: 'The Performance Accelerator is built for men who own a blue-collar business. If that’s you down the road, come back. Until then, here’s a better place to start.',
-    revenue: 'The Performance Accelerator is built for owners running seven-figure companies. That’s not a judgment, it’s who the program was designed around. Here’s a better place to start today.'
+    owner: 'Mindset, Fitness and Performance is built for men who own a trades or home-service business. If that’s you down the road, come back. Until then, here’s a better place to start.',
+    revenue: 'Mindset, Fitness and Performance is built for owners running seven-figure companies. That’s not a judgment, it’s who the program was designed around. Here’s a better place to start today.'
   };
 
   function bringIntoView(){ var r = root.getBoundingClientRect(); if (r.top < 0 || r.top > innerHeight * 0.4) root.scrollIntoView({block:'start'}); }
@@ -73,8 +73,13 @@ function startApply(){
     if (notYetStep) notYetStep.classList.remove('on');
     bar.parentNode.style.visibility = '';
     steps.forEach(function(s,j){ s.classList.toggle('on', j === i); });
-    bar.style.width = Math.round((i) / (steps.length - 1) * 100) + '%';
-    if (scroll) bringIntoView();
+    bar.style.width = Math.round((i + 1) / steps.length * 100) + '%';
+    var labels = {owner:'Step 1 of 4', revenue:'Step 2 of 4', change:'Optional question', contact:'Step 3 of 4', calendar:'Step 4 of 4'};
+    var sc = root.querySelector('.stepcount'); if (sc) sc.textContent = labels[steps[i].dataset.step] || '';
+    if (scroll){
+      bringIntoView();
+      var q = steps[i].querySelector('.q'); if (q){ q.setAttribute('tabindex','-1'); q.focus({preventScroll:true}); }
+    }
     if (steps[i].dataset.step === 'calendar') buildCalendar();
   }
   function notYet(reason){
@@ -89,8 +94,8 @@ function startApply(){
     var o = e.target.closest('.opt');
     if (o){
       var step = o.closest('.step'), key = step.dataset.step, val = o.dataset.v;
-      step.querySelectorAll('.opt').forEach(function(x){ x.classList.remove('sel'); });
-      o.classList.add('sel');
+      step.querySelectorAll('.opt').forEach(function(x){ x.classList.remove('sel'); x.setAttribute('aria-pressed','false'); });
+      o.classList.add('sel'); o.setAttribute('aria-pressed','true');
       answers[key] = val; sset('u365_app', answers);
       setTimeout(function(){
         if (key === 'owner' && val === 'no') return notYet('owner');
