@@ -168,12 +168,12 @@ Spots are limited. We only take the men we can actually coach.
 
 And when you book, show up. Treat it like the most important meeting on your calendar that week. Because it is.
 
-## 8:30 The promise (about 89%, the spot Supra Human uses)
+## 8:30 The promise (about 89%)
 
-ON SCREEN: Hit your goal weight, or you don't pay.
+ON SCREEN: Zero risk. Twice. Hit your goal weight, or you don't pay. If we waste your hour, we pay for it.
 
-**[PENDING: Josh signs guarantee option 3 in GUARANTEE.md (the one on the VSL page now). Sean records this paragraph only after that, word for word as signed. Keep this section out of any ad cut-down: Meta restricts weight-loss claims in ads.]**
-Here's my promise. Pay in full, and in your first two weeks you and your coach set a realistic goal weight, in writing. Show up to your calls, do your check-ins and follow your Blueprint for twelve months. If you haven't hit that goal weight, you get every dollar back. Financed plans aren't covered. The full terms are right on this page. That's the Unstoppable Promise.
+**[PENDING: Josh OKs the final wording (he said in Slack 2026-11-13 that both guarantees work), sets how a claim is made and who approves it, and confirms the $250. Sean records this paragraph only after that, word for word as signed. Keep this section out of any ad cut-down: Meta restricts weight-loss claims in ads.]**
+Here's my promise. Hit your goal weight, or you don't pay. You and your coach pick the number together. And if you get on the call with my team and feel we wasted your hour, we'll send you two hundred and fifty dollars. No argument. Zero risk. Twice.
 
 *Alternate, safe today (no guarantee):* Here's my promise. Show up, and we won't let you hide. Miss a week and you'll hear from us. That's what accountability means here.
 
@@ -199,7 +199,7 @@ Answer the questions below. Let's go.
 - [x] Identity and future pace in Sean's words.
 - [~] Proof: one site quote on screen today (Javier; Ryan's body-change quote was cut to keep the page clear of body claims). Tommy and Lance pending consent. Still the weakest section.
 - [x] Objections head-on: time, travel and job sites, tried before, "a coach can't make me", price.
-- [~] Risk reversal ("hit your goal weight, or you don't pay", paid in full, financed plans excluded) pending Josh's signature. The safe alternate carries it until then.
+- [~] Risk reversal ("give us one hour, if we waste it we pay for it", $250) pending Josh's signature. The safe alternate carries it until then.
 - [x] CTA early (about 25% in), repeated with the filter at the end, plus the show-up instruction aimed at the show rate.
 - [x] Compliance: no medical language at all (no doctor, diagnosis, drugs, labs, medical team, hormones, peptides or weight-loss claims); no body or health outcome promised; refund conditions said out loud; testimonials with "Individual results vary."
 

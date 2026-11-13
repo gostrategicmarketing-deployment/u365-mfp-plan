@@ -135,12 +135,12 @@ Spots are limited. We only take the men we can actually coach.
 
 And when you book, show up. Treat it like the most important meeting on your calendar that week. Because it is.
 
-## 4:50 The promise (about 88%, the spot Supra Human uses)
+## 4:50 The promise (about 88%)
 
-ON SCREEN: Hit your goal weight, or you don't pay.
+ON SCREEN: Zero risk. Twice. Hit your goal weight, or you don't pay. If we waste your hour, we pay for it.
 
-**[PENDING: Josh signs guarantee option 3 in GUARANTEE.md (the one on the VSL page now). Sean records this paragraph only after that, word for word as signed. Keep this section out of any ad cut-down: Meta restricts weight-loss claims in ads.]**
-Here's my promise. Pay in full, and in your first two weeks you and your coach set a realistic goal weight, in writing. Show up to your calls, do your check-ins and follow your Blueprint for twelve months. If you haven't hit that goal weight, you get every dollar back. Financed plans aren't covered. The full terms are right on this page.
+**[PENDING: Josh OKs the final wording (he said in Slack 2026-11-13 that both guarantees work), sets how a claim is made and who approves it, and confirms the $250. Sean records this paragraph only after that, word for word as signed. Keep this section out of any ad cut-down: Meta restricts weight-loss claims in ads.]**
+Here's my promise. Hit your goal weight, or you don't pay. You and your coach pick the number together. And if you get on the call with my team and feel we wasted your hour, we'll send you two hundred and fifty dollars. No argument. Zero risk. Twice.
 
 *Alternate, safe today (no guarantee):* Here's my promise. Show up, and we won't let you hide. Miss a week and you'll hear from us.
 
@@ -164,7 +164,7 @@ Answer the questions below. Let's go.
 - [x] Story creates identification: Sean's cell and "no more negotiating with myself" (pending) or the safe alternate.
 - [~] Every claim has proof: Tommy and Lance pending consent. The site quotes (Javier, Jerad, Ryan) can carry proof on the page under the video. **Weakest section: real proof is gated on Josh.**
 - [x] Objections head-on: no time, tried before, just looking, "a coach can't make me" (accountability).
-- [~] Sin offer: the call is free and honest about fit, and "hit your goal weight, or you don't pay" (paid in full, financed excluded) is the strongest risk reversal in the category once Josh signs it.
+- [~] Sin offer: the call is free and honest about fit, and "zero risk, twice": hit your goal weight or you don't pay, and if we waste your hour we pay $250 is the risk reversal once Josh OKs it.
 - [x] Clear CTA: answer the questions, book, show up. **Early soft CTA at about 1:30 (27% of runtime)**, matching where both cold-traffic competitors first ask (25 to 26%, see `COMPETITOR-VSL-LENGTHS.md`).
 - [x] Awareness match: level 2, problem first.
 - [x] Format: short VSL for Meta traffic; the landing-page cut is `VSL-SCRIPT-LONG.md`.
