@@ -105,7 +105,7 @@ function startApply(){
       return;
     }
     if (e.target.closest('.skip')){ answers.change = 'skipped'; sset('u365_app', answers); return show(idx + 1, true); }
-    if (e.target.closest('.restart')){ delete answers.not_yet; return show(0, true); }
+    if (e.target.closest('.restart')){ delete answers.not_yet; root.querySelectorAll('.opt.sel').forEach(function(x){ x.classList.remove('sel'); x.setAttribute('aria-pressed','false'); }); return show(0, true); }
     if (e.target.closest('.back') && idx > 0) show(idx - 1, true);
   });
 
@@ -125,15 +125,17 @@ function startApply(){
 
   function buildCalendar(){
     var f = document.getElementById('ghl-cal');
-    if (!f || f.getAttribute('src')) return;
+    if (!f) return;
     var q = new URLSearchParams();
     if (answers.first) q.set('first_name', answers.first);
     if (answers.email) q.set('email', answers.email);
     if (answers.phone) q.set('phone', answers.phone);
     var attr = sget('u365_attr') || {};
     Object.keys(attr).forEach(function(k){ if (attr[k]) q.set(k, attr[k]); });
-    f.id = U365.CALENDAR_ID + '_' + Date.now();   // form_embed.js sizes the frame by this id
-    f.src = U365.CALENDAR_URL + (q.toString() ? '?' + q.toString() : '');
+    var url = U365.CALENDAR_URL + (q.toString() ? '?' + q.toString() : '');
+    if (f.getAttribute('src') === url) return;
+    if (!f.getAttribute('src')) f.id = U365.CALENDAR_ID + '_' + Date.now();   // form_embed.js sizes the frame by this id
+    f.src = url;
     // HighLevel's embed script grows the frame to fit every time slot. Load it after the frame exists,
     // so it finds the frame; until it does, the frame scrolls on its own.
     if (!document.querySelector('script[src*="form_embed"]')){

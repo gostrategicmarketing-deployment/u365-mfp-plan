@@ -1,8 +1,8 @@
 # U365 MFP VSL: Sean on camera (short cut, DRAFT)
 
 **Sells:** Mindset, Fitness and Performance (MFP, $7,500 a year). Every lead goes to the 60-minute call. No price on camera.
-**Length:** about 5:35 (859 spoken words at about 155 a minute). Cutting the 3:40 payoff paragraph brings it to about 5:15. Teleprompter: `TELEPROMPTER.txt` (rebuild with `make_teleprompters.py`).
-**Speaker:** Sean, real footage only. Lines marked **[PENDING]** need the named person's OK; each has a safe alternate. `[Sean, source mm:ss]` marks his own phrasing (sources in `SEAN-LINES-JULY-SHOOT.md`), for the editor only.
+**Length:** about 6:40 now (1,040 spoken words at about 155 a minute, up from 5:35 after the 2026-11-13 additions). Cut the armor paragraph and the thousands-of-clients line to get back to about 6:00. Teleprompter: `TELEPROMPTER.txt` (rebuild with `make_teleprompters.py`).
+**Speaker:** Sean, real footage only. Lines marked **[PENDING]** are now the guarantee only (Josh's OK); each has a safe alternate. Everything Sean has said himself on his channel, podcasts or Facebook is cleared to use (Phil, 2026-11-13); the sources are in the tags and in `../2026-11-13 - Facebook Voice Scrape/`. `[Sean, source mm:ss]` marks his own phrasing (sources in `SEAN-LINES-JULY-SHOOT.md`), for the editor only.
 **Rules:** no dashes; no medical language (labs, medical team, doctors, hormones, peptides, diagnoses, weight-loss or body-change claims); no site stats; men only; no keynote footage; nothing from Dr. J. Built with `vsl-master-architect`.
 
 ---
@@ -39,7 +39,7 @@ Except one department. You.
 
 Your sleep. Your energy at two in the afternoon. How you feel climbing out of the truck at the end of the day. Nobody's managing that. Not even you.
 
-Give me five minutes, and I'll show you how to fix it without slowing down the business.
+Give me a few minutes, and I'll show you how to fix it without slowing down the business.
 
 ## 0:25 Who I am, who this is for
 
@@ -48,6 +48,8 @@ ON SCREEN: For 7-figure blue-collar business owners.
 My name is Sean Crane, founder of Unstoppable 365. I'm not some fitness guru posting on social media. `[Sean, GS26 0:47]` I coach one kind of man.
 
 Blue-collar business owners. Roofing, HVAC, plumbing, gutters, garage doors, home services. Guys who built a seven-figure company by outworking everybody.
+
+I've personally worked with thousands of clients, and right now hundreds of blue-collar business owners are in my program. `[Sean, YouTube cRI7-37i_wc, Profit Insanity talk]`
 
 If that's you, stay with me.
 
@@ -60,19 +62,21 @@ Here's what I hear from owners every week.
 
 You're up before the crew. Phone ringing all day, putting out fires. By two in the afternoon you're crashing, drinking way too much caffeine to push through. `[Sean, podcast 37:53]` And by the time you get home, all you want is a drink, the couch and a snack. `[Sean, GS26 3:19]`
 
-Your family gets whatever's left. Leftovers.
+Your business gets your best. Your family gets leftovers. `[Sean, FB reel 1158101753411326]`
+
+Most business owners in their 40s are running their body the same way they did at 25. More stress, less sleep, less movement, and years of compounding neglect. The window to do something about it is now, not when it becomes a problem. `[Sean, FB reel 2615027712291810]`
 
 And you tell yourself what every owner tells himself. Just let me get through this busy season. Then I'll get back in the gym. Then I'll be home more. `[Sean, GS26 6:08]`
 
 That's kicking the can. And you'll keep kicking it until something makes you stop.
 
-If that sounds like you, the questions are right under this video. Start them while I talk.
+If that sounds like you, keep watching. The questions are right under this video when I'm done.
 
 ## 1:30 My story
 
 B-ROLL: Sean, real footage only. Book cover of Prison Of Your Own if Sean approves the story.
 
-**[PENDING: Sean approves this paragraph in his own words. Story guardrail: never say or imply on camera that he didn't commit the crime.]**
+> Sean's story, in his own words from his public channel and podcasts (Phil 2026-11-13: if Sean said it, it's allowed). Guardrail stays: never say or imply he didn't commit the crime.
 I know that pattern, because I lived it worse than most. For ten years I numbed everything out. At twenty-three I sat in a six-by-eight cell, twenty-four hours a day, looking back at all the potential I'd wasted. `[Sean, GS25 13:26 to 14:09]` In that cell I made one decision. No more negotiating with myself. Read, write and work out, every single day. `[Sean, GS25 25:45 and 26:21]` I came home and built my whole life on that one standard. That's what I teach owners now.
 
 *Alternate if Sean would rather not tell the story here:* I know that pattern, because I've lived it. Running on empty, telling myself I'd fix it later. Later never came until I stopped negotiating with myself and built a standard I ran every single day. That's what I teach owners now.
@@ -107,12 +111,13 @@ You run the business. We manage the department you've been ignoring.
 
 ## 3:40 Proof and the payoff
 
-B-ROLL: **[PENDING written consent]** Tommy Mello and Lance Bachman testimonial clips (already on /octthankyou). Without consent, stay on Sean.
+B-ROLL: stay on Sean. (Tommy Mello and Lance Bachman clips are held until each gives written consent to be shown as clients; see `../2026-11-13 - Red Team/RED-TEAM.md`.)
 
-**[PENDING: written OK from Tommy Mello and Lance Bachman to be named in a sales video.]**
-Owners like Tommy Mello and Lance Bachman have done this work with me.
+I've coached owners running seven, eight and nine-figure companies. Victor Rancour was one of my first high profile clients in this space. `[Sean on Victor: Home Service Studs podcast]`
 
 *Alternate, safe today:* I've coached owners running seven, eight and nine-figure companies.
+
+Working out, eating right, the right mindset, daily habits that build you up. That's your armor against the stress of life. That's how you bring the best version of you home, not the burnout, broken down version who's barely holding on. `[Sean, YouTube cRI7-37i_wc]`
 
 And it's not about abs. It's about walking in the door at night with gas left in the tank. The day doesn't end when the job ends. `[Sean, GS26 3:50]` Your wife and kids get the best of you, not the leftovers.
 
@@ -131,7 +136,7 @@ B-ROLL: screen capture of the application and calendar.
 
 Right under this video, answer a few quick questions. If it looks like a fit, you'll pick a time for a sixty-minute call with my team. That call is how you get into Mindset, Fitness and Performance. We'll go through your goals, what's in the program and what it costs, and we'll tell you honestly whether it's right for you. If it's not, we'll tell you that too.
 
-Spots are limited. We only take the men we can actually coach.
+We only take the men we can actually coach.
 
 And when you book, show up. Treat it like the most important meeting on your calendar that week. Because it is.
 
@@ -146,7 +151,7 @@ Here's my promise. Hit your goal weight, or you don't pay. You and your coach pi
 
 ## 5:15 Close
 
-ON SCREEN: Limited spots. Unlimited accountability.
+ON SCREEN: Selective by design. Unlimited accountability.
 
 Project yourself into the future. Who's the guy running an eight or nine-figure company? Who's the guy that's present at home? `[Sean, podcast 12:30]`
 
@@ -162,7 +167,7 @@ Answer the questions below. Let's go.
 - [x] Mechanism named and explained: The Owner's Blind Spot (problem; proposed name) and putting a manager on it (solution).
 - [x] Hook in the first 10 seconds: "Every department in your company has a manager. Except one."
 - [x] Story creates identification: Sean's cell and "no more negotiating with myself" (pending) or the safe alternate.
-- [~] Every claim has proof: Tommy and Lance pending consent. The site quotes (Javier, Jerad, Ryan) can carry proof on the page under the video. **Weakest section: real proof is gated on Josh.**
+- [~] Every claim has proof: The site quotes (Javier, Jerad, Ryan) can carry proof on the page under the video. **Weakest section: real proof is gated on Josh.**
 - [x] Objections head-on: no time, tried before, just looking, "a coach can't make me" (accountability).
 - [~] Sin offer: the call is free and honest about fit, and "zero risk, twice": hit your goal weight or you don't pay, and if we waste your hour we pay $250 is the risk reversal once Josh OKs it.
 - [x] Clear CTA: answer the questions, book, show up. **Early soft CTA at about 1:30 (27% of runtime)**, matching where both cold-traffic competitors first ask (25 to 26%, see `COMPETITOR-VSL-LENGTHS.md`).

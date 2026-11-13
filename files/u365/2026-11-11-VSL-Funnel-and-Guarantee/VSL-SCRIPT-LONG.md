@@ -27,7 +27,7 @@ ON SCREEN: For 7-figure blue-collar business owners.
 
 My name is Sean Crane, founder of Unstoppable 365. I'm not some fitness guru posting on social media. I've been through some adversity, and that's what taught me what I teach. `[Sean, GS26 0:47]`
 
-I coach one kind of man. Blue-collar business owners. Roofing, HVAC, plumbing, gutters, garage doors, home services.
+I coach one kind of man. Blue-collar business owners. Roofing, HVAC, plumbing, gutters, garage doors, home services. I've personally worked with thousands of clients, and right now hundreds of blue-collar business owners are in my program. `[Sean, YouTube cRI7-37i_wc, Profit Insanity talk]`
 
 If your company does under a million a year, this video isn't for you yet. If it does more, keep watching.
 
@@ -52,7 +52,9 @@ Here's what I hear from owners every week.
 
 You're up before the crew. Phone ringing all day, putting out fires. By two in the afternoon you're crashing, drinking way too much caffeine to push through. `[Sean, podcast 37:53]` By the time you get home, all you want is a drink, the couch and a snack. `[Sean, GS26 3:19]`
 
-Your family gets whatever's left. Leftovers.
+Your business gets your best. Your family gets leftovers. `[Sean, FB reel 1158101753411326]`
+
+Most business owners in their 40s are running their body the same way they did at 25. More stress, less sleep, less movement, and years of compounding neglect. The window to do something about it is now, not when it becomes a problem. `[Sean, FB reel 2615027712291810]`
 
 And it shows up at work too. Decisions feel heavier than they used to. You're short with the crew. You're asking your team to perform at an elite level, and you know you're not. `[Sean, podcast 57:39]`
 
@@ -64,13 +66,13 @@ That's kicking the can. And you'll keep kicking it until something makes you sto
 
 ON SCREEN: Questions are below this video. Start them now.
 
-If you're nodding along, the questions are right under this video. Start them while I talk. It takes about two minutes, and you'll see the calendar when you're done.
+If you're nodding along, keep watching. The questions are right under this video, and they take about two minutes. Then you pick your time on the calendar.
 
 ## 2:35 My story
 
 B-ROLL: Sean, real footage only. Book cover of Prison Of Your Own if Sean approves the story.
 
-**[PENDING: Sean approves this whole section in his own words. Story guardrail: never say or imply on camera that he didn't commit the crime. The dollar figures are his own from the keynotes and need his OK.]**
+> Sean's story, in his own words from his public channel and podcasts (Phil 2026-11-13: if Sean said it, it's allowed). Guardrail stays: never say or imply he didn't commit the crime.
 I know that pattern, because I lived it worse than most.
 
 For ten years I numbed everything out. At twenty-three I sat in a six-by-eight cell, twenty-four hours a day, looking back at all the potential I'd wasted. `[Sean, GS25 13:26 to 14:09]` The regret was worse than the sentence.
@@ -130,14 +132,15 @@ Every owner I talk to says the same thing. I did it for my family. But the only 
 
 When you raise the standard for your body, it shows up everywhere else. Your marriage. The time with your kids. How you lead your crew. `[Sean, podcast 15:14]` The day doesn't end when the job ends. `[Sean, GS26 3:50]`
 
+Working out, eating right, the right mindset, daily habits that build you up. That's your armor against the stress of life. That's how you bring the best version of you home, not the burnout, broken down version who's barely holding on. `[Sean, YouTube cRI7-37i_wc]`
+
 ## 6:50 Proof
 
 ON SCREEN (text, as on the live site, with "Individual results vary."):
 "Since joining in Sept 2022, once I started taking it seriously, my life drastically changed. My mindset, habits, energy, and resilience to the hardships life throws at you no longer affect me negatively." Javier
-B-ROLL: **[PENDING written consent]** Tommy Mello and Lance Bachman testimonial clips (already on /octthankyou). Without consent, use the quote cards only.
+B-ROLL: stay on Sean. (Tommy Mello and Lance Bachman clips are held until each gives written consent to be shown as clients; see `../2026-11-13 - Red Team/RED-TEAM.md`.)
 
-**[PENDING: written OK from Tommy Mello and Lance Bachman to be named in a sales video.]**
-Owners like Tommy Mello and Lance Bachman have done this work with me.
+I've coached owners running seven, eight and nine-figure companies. Victor Rancour was one of my first high profile clients in this space. `[Sean on Victor: Home Service Studs podcast]`
 
 *Alternate, safe today:* I've coached owners running seven, eight and nine-figure companies.
 
@@ -164,7 +167,7 @@ So here's the next step. If you own the company, it does over a million a year, 
 
 If it looks like a fit, you'll pick a time for a sixty-minute call with my team. That call is how you get into Mindset, Fitness and Performance. We'll look at where you are, what you want to change and what keeps getting in the way. Then we'll tell you honestly whether the program is right for you. If it's not, we'll tell you that too.
 
-Spots are limited. We only take the men we can actually coach.
+We only take the men we can actually coach.
 
 And when you book, show up. Treat it like the most important meeting on your calendar that week. Because it is.
 
@@ -179,7 +182,7 @@ Here's my promise. Hit your goal weight, or you don't pay. You and your coach pi
 
 ## 8:50 Close
 
-ON SCREEN: Limited spots. Unlimited accountability.
+ON SCREEN: Selective by design. Unlimited accountability.
 
 Project yourself into the future. Who's the guy running an eight or nine-figure company? Who's the guy that's present at home? `[Sean, podcast 12:30]`
 
@@ -197,7 +200,7 @@ Answer the questions below. Let's go.
 - [x] Problem mechanism argued, not just named: all or nothing, broken promises, "why does it take a scare", the crew analogy.
 - [x] Solution mechanism mapped to MFP's coaching parts (fitness, nutrition, mindset, habits) as three steps (pending Josh on inclusions). The medical side stays on the call.
 - [x] Identity and future pace in Sean's words.
-- [~] Proof: one site quote on screen today (Javier; Ryan's body-change quote was cut to keep the page clear of body claims). Tommy and Lance pending consent. Still the weakest section.
+- [~] Proof: one site quote on screen today (Javier; Ryan's body-change quote was cut to keep the page clear of body claims). Still the weakest section.
 - [x] Objections head-on: time, travel and job sites, tried before, "a coach can't make me", price.
 - [~] Risk reversal ("give us one hour, if we waste it we pay for it", $250) pending Josh's signature. The safe alternate carries it until then.
 - [x] CTA early (about 25% in), repeated with the filter at the end, plus the show-up instruction aimed at the show rate.
