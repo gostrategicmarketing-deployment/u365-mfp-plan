@@ -52,7 +52,7 @@ And it's not for you if you want a thirty-day challenge or a shortcut. We build 
 ON SCREEN: Your business gets your best. Your family gets leftovers.
 B-ROLL: owner-life cutaways if any are shot (truck, job site, phone at night). If none, stay on Sean.
 
-Here's what I hear from owners every week.
+Here's what owners tell me.
 
 You're up before the crew. Phone ringing all day, putting out fires. And when you finally walk in the door, you can't turn it off. I fight that one myself. Turning it off is harder than turning it on. `[Sean, EQixpUySh5Q present-parent talk]`
 
