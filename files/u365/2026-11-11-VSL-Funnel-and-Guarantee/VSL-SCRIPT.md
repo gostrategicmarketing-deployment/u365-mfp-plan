@@ -44,6 +44,8 @@ When it comes to the promises you make to yourself, do you follow through?
 
 Stay with me. I want to show you how I help owners make a plan they can actually follow.
 
+And in a couple of minutes, I'll give you the question I ask the men I coach. It's where all of this starts.
+
 ## 0:25 Who I am, who this is for
 
 ON SCREEN: For 7-figure blue-collar business owners.
@@ -66,7 +68,7 @@ ON SCREEN: Your business gets your best. Your family gets leftovers.
 
 B-ROLL: owner-life cutaways if any are shot (truck, job site, phone at night). If none, stay on Sean.
 
-Here's what owners tell me.
+Let me start with me. A reminder goes off on my phone at five every day. It says put your phone away. `[Sean, EQixpUySh5Q; SEAN to confirm the reminder]`
 
 I work on this myself. Some days I do a good job being present at home. Other days, I'm still thinking about work. Knowing when to turn it off is something I have to work at. `[Sean, EQixpUySh5Q present-parent talk]`
 
@@ -100,7 +102,7 @@ Discipline is the bridge between where you are and where you want to be. The har
 
 But most guys go all or nothing. Six days a week in the gym, then you miss one day and it turns into a month. `[Sean, podcast 11:50]` That's where having someone in your corner matters. Someone who knows what you said you wanted and asks whether you're doing the work.
 
-Here's how I coach a man. You tell me you want to be an example for your kids. You tell me you want to hold a higher standard. I'm going to ask you, are your actions lining up with that? I want the best for you. That's why I'm going to challenge you. `[Sean, shEV3zr5rvE, reworded]`
+Here's the question I promised you. You tell me you want to be an example for your kids. You tell me you want to hold a higher standard. I'm going to ask you, are your actions lining up with that? I want the best for you. That's why I'm going to challenge you. `[Sean, shEV3zr5rvE, reworded]`
 
 You don't have to keep putting this off. You can decide it's worth working on now.
 
@@ -116,27 +118,33 @@ Step two. Build a plan you can follow. Custom training I build for you, adjusted
 
 Step three. Do the work, with someone in your corner. We talk every week. What did you say you were going to do? What did you actually do? You get one-on-one accountability coaching, help between calls, and a private circle of men doing the work with you. You also have direct access to me. `[live /mfp page "What you get"]`
 
+> [CONFIRM] Proposed line once Josh confirms who runs which call (burned buyers assume bait and switch if this is vague): "I build your training. Your coach runs your weekly call. And you can reach me directly."
+
 You run the company. I'll hold you to the standard you set for yourself.
 
 ## 3:40 Proof and the payoff
 
-B-ROLL: stay on Sean. (Tommy Mello and Lance Bachman clips are held until each gives written consent to be shown as clients; see ../2026-11-13 - Red Team/RED-TEAM.md.)
+ON SCREEN: "You keep me accountable and I love you for it... I'm happier at work." Tommy Mello. Individual results vary.
+
+Tommy Mello runs a home service company. Here's what he said about working with me.
+
+B-ROLL: stay on Sean, or cut to the Tommy Mello site clip. (Phil cleared the site testimonials for use on 2026-11-12 and 2026-11-13; the earlier red-team note asking for written consent is superseded. Do not use the revenue line.)
 
 > [SEAN] [CONFIRM] Optional proof line held: the named-client reference and company-revenue bands need clearance. Use the cleared 3,000+ leaders line above until then.
-
-*Alternate [SEAN], using cleared proof: My team and I have coached more than 3,000 leaders.*
 
 Training. Eating right. Working on your mindset. Keeping the promises you make to yourself. I think of those habits as armor against the stress of life. I want you thinking about who you're bringing home to your family. `[Sean, YouTube cRI7-37i_wc]`
 
 I want you to have something left for the people at home. The day doesn't end when the job ends. `[Sean, GS26 3:50]` Your wife and kids get the best of you, not the leftovers.
 
-## 4:00 What this is not
+## 4:00 It has to fit your week
 
-ON SCREEN: We build unstoppable leaders.
+ON SCREEN: THE PLAN HAS TO FIT YOUR WEEK.
 
 This takes work. We're going to work on your training, your habits and the way you show up, for twelve months.
 
 Maybe you're thinking, I work hard all day. I get it. Let's look at what you're already doing and what training makes sense around it. You've got job sites, travel and people counting on you. The plan has to fit your week.
+
+And here's the difference. A trainer gives you the hour. An eight-week program ends in week nine. This is a coach asking you every week, for twelve months, whether you did what you said.
 
 ## 4:10 Next step
 
@@ -144,7 +152,7 @@ ON SCREEN: Book a call.
 
 B-ROLL: screen capture of the application and calendar.
 
-Right under this video, there are a few quick questions, then you pick a time to talk with my team. That call is how you get into Mindset, Fitness and Performance. We'll go through your goals, what's in the program and what it costs, and we'll tell you honestly whether it's right for you. If it's not, we'll tell you that too.
+Right under this video, there are four quick questions, then you pick a time to talk with my team. That call is how you get into Mindset, Fitness and Performance. We'll go through your goals, what's included and what it costs, and we'll tell you honestly whether it's right for you. If it's not, we'll tell you that too.
 
 We only take the men we can actually coach.
 
@@ -156,7 +164,7 @@ ON SCREEN: Zero risk. Twice. Hit your goal weight, or you don't pay. Leave with 
 
 > [SEAN] [CONFIRM] Proposed guarantee only. Josh must approve the goal-weight wording and placement exception, confirm that the consult delivers a plan, define what the plan includes and what qualifies for the $250 payout, and approve the claim process and terms. Record only the approved wording. Keep this section out of cold-ad cut-downs.
 
-Here's my promise. Hit your goal weight, or you don't pay. You and your coach pick the number together. And the call is guaranteed too. You leave my team's call with a plan worth your time, or we pay you two hundred and fifty dollars. No argument. Zero risk. Twice.
+Here's my promise. Hit your goal weight, or you don't pay. You and your coach pick the number together. And the call is guaranteed too. You leave my team's call with a plan worth your time, or we pay you two hundred and fifty dollars. Zero risk. Twice.
 
 *Alternate [SEAN] for review (no guarantee): You'll have a coach in your corner, weekly calls and a plan built around your life.*
 

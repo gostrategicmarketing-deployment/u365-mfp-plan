@@ -24,6 +24,8 @@ When it comes to the promises you make to yourself, do you follow through?
 
 Stay with me. I want to show you how I help owners make a plan they can actually follow, with everything else they've got going on.
 
+And in a couple of minutes, I'll give you the question I ask the men I coach. It's where all of this starts.
+
 ## 0:35 Who I am, and who this is for
 
 ON SCREEN: For 7-figure blue-collar business owners.
@@ -56,7 +58,7 @@ ON SCREEN: Your business gets your best. Your family gets leftovers.
 
 B-ROLL: owner-life cutaways if any are shot (truck, job site, phone at night). If none, stay on Sean.
 
-Here's what owners tell me.
+Let me start with me. A reminder goes off on my phone at five every day. It says put your phone away. `[Sean, EQixpUySh5Q; SEAN to confirm the reminder]`
 
 I work on this myself. Some days I do a good job being present at home. Other days, I'm still thinking about work. Knowing when to turn it off is something I have to work at. `[Sean, EQixpUySh5Q present-parent talk]`
 
@@ -106,7 +108,7 @@ But most guys go all or nothing. Six days a week in the gym, then you miss one d
 
 And every time you break a promise to yourself, you trust yourself a little less. `[Sean, GS25 24:27]` That's why the next start feels harder than the last one.
 
-Here's how I coach a man. You tell me you want to be an example for your kids. You tell me you want to hold a higher standard. I'm going to ask you, are your actions lining up with that? I want the best for you. That's why I'm going to challenge you. `[Sean, shEV3zr5rvE, reworded]`
+Here's the question I promised you. You tell me you want to be an example for your kids. You tell me you want to hold a higher standard. I'm going to ask you, are your actions lining up with that? I want the best for you. That's why I'm going to challenge you. `[Sean, shEV3zr5rvE, reworded]`
 
 You don't have to keep putting this off. You can decide it's worth working on now.
 
@@ -130,6 +132,8 @@ This is where we work on following through. We talk every week. Put it in the ca
 
 And I coach every man differently. Some guys want a drill sergeant. Some guys need to understand why it matters. Part of my job is figuring out which one you are. `[Sean, podcast 1:04:16]`
 
+> [CONFIRM] Proposed line once Josh confirms who runs which call (burned buyers assume bait and switch if this is vague): "I build your training. Your coach runs your weekly call. And you can reach me directly."
+
 You run the company. I'll hold you to the standard you set for yourself.
 
 ## 6:05 It was never about abs
@@ -152,7 +156,7 @@ ON SCREEN (text, as on the live site, with "Individual results vary."):
 
 "Since joining in Sept 2022, once I started taking it seriously, my life drastically changed. My mindset, habits, energy, and resilience to the hardships life throws at you no longer affect me negatively." Javier
 
-B-ROLL: stay on Sean. (Tommy Mello and Lance Bachman clips are held until each gives written consent to be shown as clients; see ../2026-11-13 - Red Team/RED-TEAM.md.)
+B-ROLL: stay on Sean, or cut to the Tommy Mello site clip. (Phil cleared the site testimonials for use on 2026-11-12 and 2026-11-13; the earlier red-team note asking for written consent is superseded. Do not use the revenue line.)
 
 > [SEAN] [CONFIRM] Optional proof line held: the named-client reference and company-revenue bands need clearance. Use the cleared 3,000+ leaders line above until then.
 
@@ -168,7 +172,7 @@ ON SCREEN: (each objection as a title card)
 
 "I travel and I'm on job sites all day." Then that's what we need to plan around. Tell us what your week looks like. The plan has to work when you're on the road too.
 
-"I've tried this before." Tell us what you tried and where it fell apart. With us, you've got a coach to talk it through with every week.
+"I've tried this before." Tell us what you tried and where it fell apart. A trainer gives you the hour. An eight-week program ends in week nine. With us, a coach asks you every week, for twelve months, whether you did what you said.
 
 "A coach can't make me do it." You're right. You've got to do the work. My job is to help you follow through on what you said you wanted.
 
@@ -194,7 +198,7 @@ ON SCREEN: Zero risk. Twice. Hit your goal weight, or you don't pay. Leave with 
 
 > [SEAN] [CONFIRM] Proposed guarantee only. Josh must approve the goal-weight wording and placement exception, confirm that the consult delivers a plan, define what the plan includes and what qualifies for the $250 payout, and approve the claim process and terms. Record only the approved wording. Keep this section out of cold-ad cut-downs.
 
-Here's my promise. Hit your goal weight, or you don't pay. You and your coach pick the number together. And the call is guaranteed too. You leave my team's call with a plan worth your time, or we pay you two hundred and fifty dollars. No argument. Zero risk. Twice.
+Here's my promise. Hit your goal weight, or you don't pay. You and your coach pick the number together. And the call is guaranteed too. You leave my team's call with a plan worth your time, or we pay you two hundred and fifty dollars. Zero risk. Twice.
 
 *Alternate [SEAN] for review (no guarantee): You'll have a coach in your corner, weekly calls and a plan built around your life. That's what accountability means here.*
 
