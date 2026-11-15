@@ -114,9 +114,9 @@ Step one. Where you are. We look at your training, how you're eating and what yo
 
 Step two. A plan you can follow. Custom training I build for you, adjusted as you go, and a nutrition strategy built around your real life. `[live /mfp page]` No crazy plan. For most guys it starts with three days a week, `[Sean, podcast 11:09 to 11:50]` built around your job sites and your travel. If that's too much, we start smaller. Walking the dog an extra thirty minutes counts. `[Sean, Home Service Expert 2023]` Then we add.
 
-Step three. Do the work, with someone in your corner. Here's what a week looks like. Your training, planned around your job sites. One call to go over the week: what did you say you'd do, what did you do, what got in the way. Habit reminders and progress tracking in between. Then we adjust the plan to the week you actually had. You've also got a private circle of men doing the same work, and you can reach me directly. `[live /mfp page "What you get"; the weekly review wording is SEAN to confirm]`
+Step three. Do the work, with someone in your corner. Here's what a week looks like. Your training, planned around your job sites. A weekly coaching call, where you check in: what did you say you'd do, what did you do, what got in the way. Between calls, personalized coaching, habit reminders and progress tracking, and we adjust the plan as you go. You've also got a private circle of men doing the same work, and you can reach me directly. `[live /mfp page "What you get"; the weekly review wording is SEAN to confirm]`
 
-> [CONFIRM with Josh] Who runs each weekly call (coach or Sean), whether calls are one-on-one, and that "one-on-one accountability coaching" matches delivery. A burned buyer will assume bait and switch if this stays vague. Proposed line once confirmed: "I build your training. Your coach runs your weekly call. And you can reach me directly."
+> [CONFIRM with Josh] **MFP is group coaching.** On the 2026-11-12 GTM call Josh said the one-on-one program is the $25,000 Brotherhood and that the $7,500 offer is group coaching. So this script no longer says "one-on-one." Confirm: who runs each weekly call (coach or Sean), what "personalized coaching between calls" means in practice, and whether the plan is adjusted per man or per group.
 
 And I coach every man differently. Some guys want a drill sergeant. Some guys need to understand why it matters. Part of my job is figuring out which one you are. `[Sean, podcast 1:04:16]`
 
@@ -125,14 +125,15 @@ You run the company. We'll look after the plan.
 
 ## 5:45 Proof
 
-ON SCREEN: "You keep me accountable and I love you for it... I'm happier at work." Tommy Mello. Individual results vary.
+ON SCREEN: "You keep me accountable and I love you for it... I'm happier at work." Tommy Mello, part owner of Unstoppable 365. Individual results vary.
+> [CONFIRM with Josh] **Material connection.** Josh said on the 2026-11-12 GTM call that Tommy Mello owns 14% of Unstoppable 365. An endorsement from someone with a stake needs a clear disclosure (FTC Endorsement Guides); it is written in here by default. Josh or counsel can refine the wording, not drop it.
 B-ROLL: the Tommy Mello site clip (cut before the revenue line). Phil cleared the site testimonials for use on 2026-11-12 and 2026-11-13; do not use his revenue line.
 
-Tommy Mello runs a home service company. Here's what he said about working with me.
+Tommy Mello hosts Home Service Expert, and he's a part owner of Unstoppable 365. Here's what he said about working with me.
 
 Lance Bachman has been with me for over four years. `[Lance Bachman site video, cleared]` A plan only lasts that long when somebody keeps adjusting it with you. `[SEAN to confirm]`
 
-It's one price for twelve months, and you'll hear it on the call before you decide anything.
+You'll hear the options and the price on the call before you decide anything.
 
 ON SCREEN (text, as on the live site, with "Individual results vary."):
 "Since joining in Sept 2022, once I started taking it seriously, my life drastically changed. My mindset, habits, energy, and resilience to the hardships life throws at you no longer affect me negatively." Javier
@@ -155,7 +156,7 @@ ON SCREEN: A TRAINER GIVES YOU THE HOUR.
 
 Maybe you're thinking, my job is my workout. I respect the work you do. Hard work is hard work. A plan with someone checking in on it is something else.
 
-Maybe you're thinking about a local trainer, or one of those eight-week programs. A trainer gives you the hour. An eight-week program ends in week nine. This is a coach asking you every week, for twelve months, whether you did what you said.
+Maybe you're thinking about a local trainer, or one of those eight-week programs. A trainer gives you the hour. An eight-week program ends in week nine. This is a coach and a weekly call, for twelve months, where you account for what you said you'd do.
 
 And if you're thinking you don't have time, that's exactly why it's built around your job sites and your travel.
 
@@ -170,7 +171,7 @@ ON SCREEN: (each objection as a title card)
 
 "I travel and I'm on job sites all day." Then that's what we plan around. Tell us what your week looks like. The plan has to work when you're on the road too.
 
-"I've tried this before." Tell us what you tried and where it fell apart. A trainer gives you the hour. An eight-week program ends in week nine. With us, a coach asks you every week, for twelve months, whether you did what you said.
+"I've tried this before." Tell us what you tried and where it fell apart. A trainer gives you the hour. An eight-week program ends in week nine. With us, it's a coach and a weekly call, for twelve months, where you account for what you said you'd do.
 
 "Do I have to live in the gym?" No. It doesn't have to be as hard as you think. `[Sean, Home Service Expert 2023]` For most guys it starts with three days a week, and if that's too much, we start smaller.
 
@@ -178,7 +179,7 @@ ON SCREEN: (each objection as a title card)
 
 "A coach can't make me do it." You're right. You've got to do the work. My job is to help you follow through on what you said you wanted.
 
-"What does it cost?" It's one year, one price, and we'll go through everything on the call. No surprises.
+"What does it cost?" We go through the options and the price on the call. No surprises.
 
 
 ## 8:10 Next step
