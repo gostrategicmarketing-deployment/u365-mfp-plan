@@ -13,14 +13,16 @@
 
 **Market sophistication: high (stage 4 to 5).** Every telehealth clinic and fitness coach already says "systems, not guesswork" and "labs, not guessing" (brain 05 and 11). The lead has to reframe the problem in a way the owner recognizes from his own company. MFP's labs and medical team are a real difference, but they stay on the call, where they can't get the ads flagged.
 
+**v4 REVISION (2026-11-13, after Josh's feedback and the DR research in `../2026-11-13 - DR Market Research/SYNTHESIS.md`).** The "manager" frame and the name "The Owner's Blind Spot" are retired: Josh said they sound like marketing, not Sean, and "you need a manager" tells successful owners they need supervising. Replaced by Sean's own method: the owner already has the discipline, and he is held to the standard he set. The pain section now leads with the family cost and the "after the season" deferral (the owners' own words), not the 2pm crash, caffeine, drinking or "40s body" lines, which are the site's language, not theirs. "No pressure" is gone.
+
 **16-word core (North Star):**
-> Putting a manager on your health is the key to keeping your edge at work and at home, and it's only attainable through Sean's Mindset, Fitness and Performance program.
+> You already hold your company to a standard. MFP holds you to the one you set for yourself, with a coach in your corner every week.
 
-**Problem mechanism: "The Owner's Blind Spot"** *(proposed name, Josh to approve).* Every department in an owner's company has a manager, a scoreboard and a weekly meeting except one: him. So his health runs on "all or nothing" and "after this busy season". Past attempts failed because apps and programs don't manage anybody, not because he's lazy. That makes him feel smart for seeing it, not stupid for missing it. It also matches Sean's own diagnosis on stage: owners "negotiating with themselves" and "kicking the can" (GS25, GS26).
+**Problem mechanism (no name; say it plainly):** the standard the owner holds his company to stops at his own door. So his own routine runs on "all or nothing" and "after this busy season," and the family gets what's left. Past attempts failed because apps and programs don't know him and nobody checks in, not because he's lazy. That makes him feel smart for seeing it, not stupid for missing it. It matches Sean's own words: "negotiating with themselves," "kicking the can," and "that's not the man you said you want to be" (GS25, GS26, shEV3zr5rvE). If a label is ever needed, Sean's own phrase is "lead from the inside."
 
-**Solution mechanism:** put a manager on it. MFP's coaching parts (fitness, nutrition, mindset, habits) are set out as three management steps: the numbers (where he is today, the scoreboard), the Blueprint (training and food), and execution with accountability (mindset, habits, the weekly meeting and the manager). The medical side is not mentioned on camera.
+**Solution mechanism:** a partnership, not a program. MFP's coaching parts (fitness, nutrition, mindset, habits) are set out as three steps: the numbers (where he is today), the Blueprint (training and food), and execution with accountability (mindset, habits, the weekly call and direct access to Sean). The medical side is not mentioned on camera.
 
-**Lead type:** contrarian plus problem. "Every department has a manager. Except one." Sean's story moves to section 2 (it's pending his sign-off, and the brain's guardrails keep it out of cold leads).
+**Lead type:** challenge plus problem. "You built the company. Did you scale with it?" Sean's story moves to section 2 (it's pending his sign-off, and the brain's guardrails keep it out of cold leads).
 
 **Objections handled on camera** (brain 15): O-01 no time, O-02 tried before, O-09 just looking, O-11 a coach can't make me do it. Price (O-07) and the medical questions (O-03, O-04, O-08) stay on the call.
 
@@ -30,16 +32,16 @@
 
 ## 0:00 The lead
 
-ON SCREEN: Every department has a manager. Except one.
+ON SCREEN: You built the company. Did you scale with it?
 B-ROLL: Sean straight to camera, tight. Dark set, one hard key light.
 
-Every department in your company has a manager. Sales. Dispatch. Install. Somebody owns the numbers, and somebody calls when they slip.
+You built a seven-figure company. You hold your crew to a standard. You hold your numbers to a standard. You don't let a deadline slide.
 
-Except one department. You.
+So let me ask you one question. Do you hold yourself to it?
 
-Your sleep. Your energy at two in the afternoon. How you feel climbing out of the truck at the end of the day. Nobody's managing that. Not even you.
+Not the company. You. The man running all of it.
 
-Give me a few minutes, and I'll show you how to fix it without slowing down the business.
+Give me a few minutes, and I'll show you how owners do it without slowing the business down.
 
 ## 0:25 Who I am, who this is for
 
@@ -49,24 +51,26 @@ My name is Sean Crane, founder of Unstoppable 365. I'm not some fitness guru pos
 
 Blue-collar business owners. Roofing, HVAC, plumbing, gutters, garage doors, home services. Guys who built a seven-figure company by outworking everybody.
 
-I've personally worked with thousands of clients, and right now hundreds of blue-collar business owners are in my program. `[Sean, YouTube cRI7-37i_wc, Profit Insanity talk]`
+I respect the hell out of guys who do this work. I come from a blue-collar family. `[Sean, shEV3zr5rvE, To The Point Home Services]` I run a team of my own, so I know what's on your plate.
+
+My team and I have coached more than 3,000 leaders. `[site stat "3,000+ leaders coached"; Phil cleared everything on unstoppable365.com 2026-11-13]`
+
+> Note for the editor: Sean's own "hundreds of blue-collar owners in our program" is not on the site and stays out until Josh confirms it.
 
 If that's you, stay with me.
 
 ## 0:45 The problem
 
-ON SCREEN: Business systems: A+. Your own systems: F.
+ON SCREEN: Your business gets your best. Your family gets leftovers.
 B-ROLL: owner-life cutaways if any are shot (truck, job site, phone at night). If none, stay on Sean.
 
 Here's what I hear from owners every week.
 
-You're up before the crew. Phone ringing all day, putting out fires. By two in the afternoon you're crashing, drinking way too much caffeine to push through. `[Sean, podcast 37:53]` And by the time you get home, all you want is a drink, the couch and a snack. `[Sean, GS26 3:19]`
+You're up before the crew. Phone ringing all day, putting out fires. And when you finally walk in the door, you can't turn it off. I fight that one myself. Turning it off is harder than turning it on. `[Sean, EQixpUySh5Q present-parent talk]`
 
 Your business gets your best. Your family gets leftovers. `[Sean, FB reel 1158101753411326]`
 
-Most business owners in their 40s are running their body the same way they did at 25. More stress, less sleep, less movement, and years of compounding neglect. The window to do something about it is now, not when it becomes a problem. `[Sean, FB reel 2615027712291810]`
-
-And you tell yourself what every owner tells himself. Just let me get through this busy season. Then I'll get back in the gym. Then I'll be home more. `[Sean, GS26 6:08]`
+And you tell yourself what every owner tells himself. Just let me get through this busy season. Then I'll get back in the gym. Then I'll be home more. `[Sean, GS26 6:08]` Then the season ends, and the next one starts. Six more months, and six more after that.
 
 That's kicking the can. And you'll keep kicking it until something makes you stop.
 
@@ -81,25 +85,27 @@ I know that pattern, because I lived it worse than most. For ten years I numbed 
 
 *Alternate if Sean would rather not tell the story here:* I know that pattern, because I've lived it. Running on empty, telling myself I'd fix it later. Later never came until I stopped negotiating with myself and built a standard I ran every single day. That's what I teach owners now.
 
-## 2:00 Why nothing has worked (the blind spot)
+## 2:00 Why nothing has worked
 
-ON SCREEN: It's not discipline. Nobody's managing it.
+ON SCREEN: You already have the discipline.
 
 Now here's what nobody tells you.
 
-You didn't fall off because you're lazy. You're the hardest-working man I know.
+You didn't fall off because you're lazy. You're the hardest-working man I know. You've been getting up early and working hard for years. `[Sean, FB reel 4764551593764659]`
 
-Most guys are all or nothing. Six days a week in the gym, then you miss one day and it turns into a month. `[Sean, podcast 11:50]` The app didn't call you. The program didn't notice. Nobody was managing it.
+Discipline is the bridge between where you are and where you want to be. The hardest part is investing in yourself the same way you've invested in the business. `[Sean, FB reel 4764551593764659]`
 
-Think about it. If something scared you tomorrow, you'd change overnight. You'd hire the coach, fix the food, never miss a workout. `[Sean, GS25 18:45, reworded: no doctor or diagnosis]` So why does it take a scare?
+But most guys go all or nothing. Six days a week in the gym, then you miss one day and it turns into a month. `[Sean, podcast 11:50]` The app didn't call you. The program didn't notice. Nobody was in your corner, holding you to what you said you wanted.
 
-Because right now, there's no manager. And anything in your business without a manager falls apart. Your body is no different.
+Here's how I coach it. I don't tell a man what he's missing. I hold him to the man he said he wanted to be. You told me you wanted to be an example for your kids. You told me you wanted to hold a higher standard. Then I'll ask, is this it? `[Sean, shEV3zr5rvE, reworded]`
+
+Most men change when something forces them to. You don't have to wait for it.
 
 ## 2:45 Mindset, Fitness and Performance
 
 ON SCREEN: 1. Your numbers  2. Your Blueprint  3. Execute with accountability
 
-So we put a manager on it. It's called Mindset, Fitness and Performance. Not a program. A partnership. `[live /mfp page]` Twelve months, three steps.
+So here's what I built. It's called Mindset, Fitness and Performance. Not a program. A partnership. `[live /mfp page]` Twelve months, three steps.
 
 Step one. Your numbers. Think of it like a P&L for your business, but for you. `[Sean, podcast 7:36, reworded]` We find out exactly where you are today, so nothing about your plan is a guess.
 
@@ -107,7 +113,7 @@ Step two. Your Blueprint. Custom training I build for you, adjusted as you progr
 
 Step three. Execute with accountability. This is where the mindset and the habits get built. Weekly coaching calls. Coaching between sessions, with habit reminders and progress tracking. A private circle of men doing the same work. And direct access to me between sessions. `[live /mfp page "What you get"]`
 
-You run the business. We manage the department you've been ignoring.
+You run the company. I'll hold you to the standard you set for yourself.
 
 ## 3:40 Proof and the payoff
 
@@ -127,14 +133,14 @@ ON SCREEN: We build unstoppable leaders.
 
 It's not a thirty-day challenge, and it's not a shortcut. We build unstoppable leaders.
 
-And if you're thinking you don't have time, that's exactly why it has to be managed for you.
+And if you're thinking your job is your workout, hard work is hard work. A plan with someone checking in every week is something else. And if you're thinking you don't have time, that's exactly why it's built around your job sites and your travel.
 
 ## 4:10 Next step
 
-ON SCREEN: Answer a few questions. Book your 60-minute call.
+ON SCREEN: Book a call.
 B-ROLL: screen capture of the application and calendar.
 
-Right under this video, answer a few quick questions. If it looks like a fit, you'll pick a time for a sixty-minute call with my team. That call is how you get into Mindset, Fitness and Performance. We'll go through your goals, what's in the program and what it costs, and we'll tell you honestly whether it's right for you. If it's not, we'll tell you that too.
+Right under this video, there are a few quick questions, then you pick a time to talk with my team. That call is how you get into Mindset, Fitness and Performance. We'll go through your goals, what's in the program and what it costs, and we'll tell you honestly whether it's right for you. If it's not, we'll tell you that too.
 
 We only take the men we can actually coach.
 
@@ -142,10 +148,10 @@ And when you book, show up. Treat it like the most important meeting on your cal
 
 ## 4:50 The promise (about 88%)
 
-ON SCREEN: Zero risk. Twice. Hit your goal weight, or you don't pay. If we waste your hour, we pay for it.
+ON SCREEN: Zero risk. Twice. Hit your goal weight, or you don't pay. Leave with a plan worth your time, or we pay you $250.
 
 **[PENDING: Josh OKs the final wording (he said in Slack 2026-11-13 that both guarantees work), sets how a claim is made and who approves it, and confirms the $250. Sean records this paragraph only after that, word for word as signed. Keep this section out of any ad cut-down: Meta restricts weight-loss claims in ads.]**
-Here's my promise. Hit your goal weight, or you don't pay. You and your coach pick the number together. And if you get on the call with my team and feel we wasted your hour, we'll send you two hundred and fifty dollars. No argument. Zero risk. Twice.
+Here's my promise. Hit your goal weight, or you don't pay. You and your coach pick the number together. And the call is guaranteed too. You leave my team's call with a plan worth your time, or we pay you two hundred and fifty dollars. No argument. Zero risk. Twice.
 
 *Alternate, safe today (no guarantee):* Here's my promise. Show up, and we won't let you hide. Miss a week and you'll hear from us.
 
@@ -163,13 +169,13 @@ Answer the questions below. Let's go.
 
 ## Skill checklist (final pass)
 
-- [x] One core belief: your health is the department with no manager.
-- [x] Mechanism named and explained: The Owner's Blind Spot (problem; proposed name) and putting a manager on it (solution).
-- [x] Hook in the first 10 seconds: "Every department in your company has a manager. Except one."
+- [x] One core belief: the standard you hold your company to should hold you too, with someone in your corner.
+- [x] Mechanism explained in plain words, no coined name (problem: the standard stops at his own door; solution: MFP holds him to the standard he set). "Owner's Blind Spot" and "manager" retired 2026-11-13.
+- [x] Hook in the first 10 seconds: "You built the company. Did you scale with it?"
 - [x] Story creates identification: Sean's cell and "no more negotiating with myself" (pending) or the safe alternate.
 - [~] Every claim has proof: The site quotes (Javier, Jerad, Ryan) can carry proof on the page under the video. **Weakest section: real proof is gated on Josh.**
 - [x] Objections head-on: no time, tried before, just looking, "a coach can't make me" (accountability).
-- [~] Sin offer: the call is free and honest about fit, and "zero risk, twice": hit your goal weight or you don't pay, and if we waste your hour we pay $250 is the risk reversal once Josh OKs it.
+- [~] Sin offer: the call is free and honest about fit, and "zero risk, twice": hit your goal weight or you don't pay, and "leave with a plan worth your time, or we pay you $250" is the risk reversal once Josh OKs it.
 - [x] Clear CTA: answer the questions, book, show up. **Early soft CTA at about 1:30 (27% of runtime)**, matching where both cold-traffic competitors first ask (25 to 26%, see `COMPETITOR-VSL-LENGTHS.md`).
 - [x] Awareness match: level 2, problem first.
 - [x] Format: short VSL for Meta traffic; the landing-page cut is `VSL-SCRIPT-LONG.md`.

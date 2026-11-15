@@ -19,7 +19,7 @@ Hey, it's Sean. You just did something most owners keep putting off. You stopped
 
 ON SCREEN: What happens on the call
 
-Here's the call. We look at where you really are: your energy, your schedule, your week. Then we map out the next twelve months with somebody managing your health, the way somebody manages your business. No pressure, no crazy plan. `[Sean, podcast 11:30]` If it's not a fit, we'll tell you straight.
+Here's the call. We look at where you really are: your energy, your schedule, your week. Then we map out the next twelve months around your job sites and your travel, with a coach in your corner every week. No crazy plan. `[Sean, podcast 11:30]` If it's not a fit, we'll tell you straight.
 
 My team runs these calls, and it's the first step to working with me. **[PENDING Josh: what the call covers]**
 
@@ -31,8 +31,8 @@ It's the most important meeting on your calendar this week. Show up. Let's go.
 
 ## Why it's built this way
 - **Opens on him, not on Sean.** He just did the thing he's been putting off. Credit him for it first, so he feels like a man who keeps his word, which makes showing up the consistent thing to do.
-- **Takes the fear out of the call.** Owners skip calls they expect to be a hard sell. "No pressure, no crazy plan, we'll tell you straight if it's not a fit" removes that reason before it forms.
-- **Gives him something to look forward to:** a clear look at where he is and what the next twelve months could be, in the same "put a manager on it" language as the VSL.
+- **Takes the fear out of the call.** Owners skip calls they expect to be a hard sell. "No crazy plan, we'll tell you straight if it's not a fit" removes that reason before it forms, without ever saying the word pressure (Josh 2026-11-13: it plants a hard sell nobody mentioned).
+- **Gives him something to look forward to:** a clear look at where he is and what the next twelve months could be, in the same "coach in your corner, held to the standard you set" language as the VSL (the "manager" wording was retired 2026-11-13).
 - **The same three actions as the page,** in the same order (CONFIRM, block the hour, bring one thing), so the video and the page say one thing.
 - **Ends on the line from the VSL** ("the most important meeting on your calendar this week"), so men who watched the VSL hear it twice.
 - **Stays inside the rules:** no health claims and no guarantee in Sean's words (the page carries the goal-weight guarantee line once Josh signs), and no promise that Sean takes the call.
@@ -41,7 +41,7 @@ It's the most important meeting on your calendar this week. Show up. Let's go.
 
 Hey, it's Sean. You just did something most owners keep putting off. You stopped saying "after this busy season" and put it on the calendar. I respect that, man.
 
-Here's the call. We look at where you really are: your energy, your schedule, your week. Then we map out the next twelve months with somebody managing your health, the way somebody manages your business. No pressure, no crazy plan. If it's not a fit, we'll tell you straight.
+Here's the call. We look at where you really are: your energy, your schedule, your week. Then we map out the next twelve months around your job sites and your travel, with a coach in your corner every week. No crazy plan. If it's not a fit, we'll tell you straight.
 
 My team runs these calls, and it's the first step to working with me.
 
