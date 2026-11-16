@@ -2,7 +2,7 @@
 
 **Sells:** Mindset, Fitness and Performance (MFP, $7,500 a year). Every lead goes to the consult call with Sean's team. No price on camera.
 **Length:** about 7:15 with the optional story, about 6:15 without (1,136 spoken words at about 155 a minute; timestamps below are edit references, re-time after Sean's read-through). Teleprompter: `TELEPROMPTER.txt` (rebuild with `make_teleprompters.py`).
-**Speaker:** Sean, real footage only. `[Sean, source]` tags show where a line comes from, for the editor only; revised lines are adaptations, not verbatim quotes. Lines marked **[SEAN]** or **[CONFIRM]** sit in review notes, never in spoken text. Nothing goes live without Josh's OK in his own chat.
+**Speaker:** Sean, real footage only. `[Sean, source]` tags show where a line comes from, for the editor only; revised lines are adaptations, not verbatim quotes. Lines marked **[SEAN]** or **[CONFIRM]** sit in review notes, never in spoken text. Nothing goes live without Rich's green light (since 2026-11-16 Rich is the single reviewer and takes final versions to Sean).
 **Rules:** no dashes; no medical language (labs, medical team, doctors, hormones, peptides, diagnoses, weight-loss or body-change claims); only cleared site proof; men only; no keynote footage without permission; nothing from Dr. J; no "manager", no "No pressure", no named mechanism.
 
 **v8.1 (Rich's review, 2026-11-16):** "Book a call with my team" is the only ask (no more "questions below"); no twelve-months framing (weekly coaching, doesn't end in week nine); the five o'clock line tightened to "I don't negotiate with it"; family-guilt lines cut; the promise section cut until Josh approves a guarantee.
