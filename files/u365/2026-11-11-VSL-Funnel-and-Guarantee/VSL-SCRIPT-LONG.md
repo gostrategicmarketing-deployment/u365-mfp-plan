@@ -5,6 +5,8 @@
 **Speaker:** Sean, real footage only. `[Sean, source]` tags show where a line comes from, for the editor only; revised lines are adaptations, not verbatim quotes. Lines marked **[SEAN]** or **[CONFIRM]** sit in review notes, never in spoken text. Nothing goes live without Josh's OK in his own chat.
 **Rules:** no dashes; no medical language (labs, medical team, doctors, hormones, peptides, diagnoses, weight-loss or body-change claims); only cleared site proof; men only; no keynote footage without permission; nothing from Dr. J; no "manager", no "No pressure", no named mechanism.
 
+**v8.1 (Rich's review, 2026-11-16):** "Book a call with my team" is the only ask (no more "questions below"); no twelve-months framing (weekly coaching, doesn't end in week nine); the five o'clock line tightened to "I don't negotiate with it"; family-guilt lines cut; the promise section cut until Josh approves a guarantee.
+
 **What changed in v8 (rebuilt from `READINESS.md` and the 2026-11-15 research):**
 1. **New lead, in Sean's own words:** "I don't believe in balance" (Home Service Expert, 2023). It respects the hours these men work and does not diagnose them. The promise is a plan that fits the week, and an open loop (the question) pays off at the close.
 2. **The process is explained earlier.** The coaching (where you are, a plan, the weekly review) now comes before the story and before the proof. The story moved later and is optional.
@@ -55,7 +57,6 @@ This is for the man who put years of work into building his company and wants to
 
 This is for you if you've bought a program or an app, got started, and it was collecting dust by March.
 
-This is for you if your business gets your best and your family gets what's left.
 
 It's not for you if you want a thirty-day challenge or a shortcut. And if your company does under a million a year, this video isn't for you yet. If it does more, keep watching.
 
@@ -71,18 +72,17 @@ You plan to train Monday. Then a callback runs long, an estimate can't wait, a s
 
 So you tell yourself what a lot of owners tell themselves. Let me get through this busy season. Then I'll get back in the gym. Then I'll be home more. `[Sean, GS26 6:08]` Then the season ends, and the next one starts. Six more months, and six more after that.
 
-I know that one. A reminder goes off on my phone at five o'clock every day. It says put your phone away. I still have to choose it. Turning it off is harder than turning it on. `[Sean, EQixpUySh5Q present-parent talk]`
+A reminder goes off on my phone at five o'clock every day. Put the phone away. I don't negotiate with it. `[Sean, EQixpUySh5Q present-parent talk]`
 
 > [SEAN] Confirm the five o'clock reminder is still true and his wording.
 
-Your business gets your best. Your family gets leftovers. `[Sean, FB reel 1158101753411326]`
 
 
 ## 2:30 First ask
 
-ON SCREEN: The questions are below this video. Start them now.
+ON SCREEN: Book a call.
 
-If this is what you want help with, you can start the questions below while you watch. Then pick a time to talk with my team.
+If this is what you want help with, book a call with my team.
 
 
 ## 3:00 Why nothing has worked
@@ -108,7 +108,7 @@ A lot of men get there one day. They wake up and think, man, what happened to me
 
 ON SCREEN: 1. WHERE YOU ARE  2. YOUR PLAN  3. DO THE WORK
 
-So here's what I built. It's called Mindset, Fitness and Performance. Twelve months, three steps. `[live /mfp page]`
+So here's what I built. It's called Mindset, Fitness and Performance. Three steps. `[live /mfp page]`
 
 Step one. Where you are. We look at your training, how you're eating and what your week actually looks like. Same way you'd look at a P&L before you changed anything. `[Sean, podcast 7:36, reworded]`
 
@@ -131,7 +131,15 @@ B-ROLL: the Tommy Mello site clip (cut before the revenue line). Phil cleared th
 
 Tommy Mello hosts Home Service Expert, and he's a part owner of Unstoppable 365. Here's what he said about working with me.
 
-Lance Bachman has been with me for over four years. `[Lance Bachman site video, cleared]` A plan only lasts that long when somebody keeps adjusting it with you. `[SEAN to confirm]`
+> Tommy's clip plays here.
+
+That's Tommy, in his own words.
+
+Lance Bachman has been with me for over four years. `[Lance Bachman site video, cleared]` I'll let him tell you why he stays.
+
+> Lance's clip plays here. ON SCREEN: "Who you surround yourself with, what you put around your mind and in your body is going to help you grow." Lance Bachman, Unstoppable 365 member. Individual results vary.
+
+That's four years of a plan somebody kept adjusting with him. `[SEAN to confirm]`
 
 You'll hear the options and the price on the call before you decide anything.
 
@@ -156,7 +164,7 @@ ON SCREEN: A TRAINER GIVES YOU THE HOUR.
 
 Maybe you're thinking, my job is my workout. I respect the work you do. Hard work is hard work. A plan with someone checking in on it is something else.
 
-Maybe you're thinking about a local trainer, or one of those eight-week programs. A trainer gives you the hour. An eight-week program ends in week nine. This is a coach and a weekly call, for twelve months, where you account for what you said you'd do.
+Maybe you're thinking about a local trainer, or one of those eight-week programs. A trainer gives you the hour. An eight-week program ends in week nine. This doesn't. It's a coach and a weekly call, where you account for what you said you'd do.
 
 And if you're thinking you don't have time, that's exactly why it's built around your job sites and your travel.
 
@@ -171,7 +179,7 @@ ON SCREEN: (each objection as a title card)
 
 "I travel and I'm on job sites all day." Then that's what we plan around. Tell us what your week looks like. The plan has to work when you're on the road too.
 
-"I've tried this before." Tell us what you tried and where it fell apart. A trainer gives you the hour. An eight-week program ends in week nine. With us, it's a coach and a weekly call, for twelve months, where you account for what you said you'd do.
+"I've tried this before." Tell us what you tried and where it fell apart. A trainer gives you the hour. An eight-week program ends in week nine. With us, it doesn't end in week nine. It's a coach and a weekly call, where you account for what you said you'd do.
 
 "Do I have to live in the gym?" No. It doesn't have to be as hard as you think. `[Sean, Home Service Expert 2023]` For most guys it starts with three days a week, and if that's too much, we start smaller.
 
@@ -185,26 +193,16 @@ ON SCREEN: (each objection as a title card)
 ## 8:10 Next step
 
 ON SCREEN: Book a call.
-B-ROLL: screen capture of the application and calendar.
+B-ROLL: screen capture of the calendar.
 
-So here's the next step. If you own the company, it does over a million a year, and you want help following through, answer the questions right under this video. There are four quick ones, then you pick a time to talk with my team. That call is how you get into Mindset, Fitness and Performance. You'll leave knowing where you stand, what to work on first, and whether this fits. We'll go through your goals, what's included and what it costs, and we'll tell you honestly whether it's right for you. If it's not, we'll tell you that too.
-
-> [CONFIRM with Josh] "what to work on first" depends on what the call really delivers. If the call is only a fit conversation, cut it and keep the rest.
+So here's the next step. If you own the company, it does over a million a year, and you want help following through, book a call with my team. That call is how you get into Mindset, Fitness and Performance. We'll go through your goals, what's included and what it costs, and we'll tell you honestly whether it's right for you.
 
 We only take the men we can actually coach.
 
 And when you book, pick a time you'll keep, and show up.
 
 
-## 8:50 The promise
-
-ON SCREEN: Zero risk. Twice. Hit your goal weight, or you don't pay. Leave with a plan worth your time, or we pay you $250.
-
-> [SEAN] [CONFIRM] Proposed guarantee only. Josh must approve the goal-weight wording and placement exception, confirm that the consult delivers a plan, define what the plan includes and what qualifies for the $250 payout, and approve the claim process and terms. Record only the approved wording. Keep this section out of every ad cut-down: Meta restricts weight-loss claims and goal weight never runs in cold ads.
-
-Here's my promise. Hit your goal weight, or you don't pay. You and your coach pick the number together. And the call is guaranteed too. You leave my team's call with a plan worth your time, or we pay you two hundred and fifty dollars. Zero risk. Twice.
-
-*Alternate [SEAN] for review (no guarantee):* You'll have a coach in your corner, a call every week and a plan built around your life.
+> **Promise section removed (Rich, 2026-11-16):** cut until Josh approves a guarantee. Ads and the VSL launch without one; a guarantee can be A/B tested later. The last proposed wording (Zero risk. Twice.) stays in `2026-11-12 - Book-A-Call Guarantee/GUARANTEE-CALL.md`.
 
 
 ## 9:15 Close
@@ -215,7 +213,7 @@ Here's the question I promised you. It's the one I ask a man when he tells me wh
 
 What did you tell yourself you'd do for yourself this week, and what got in the way?
 
-If you can't answer it, that's why you're here. Answer the questions below, and my team will go over your week with you. Let's go.
+If you can't answer it, that's why you're here. Book a call with my team. Let's go.
 
 ---
 
@@ -227,8 +225,8 @@ If you can't answer it, that's why you're here. Answer the questions below, and 
 - [x] Credibility chunk is two sentences: respect first, then one credential.
 - [~] Proof: Tommy Mello and a client of over four years (cleared). No measured results and no process story yet: the gap READINESS.md ranks as ask 3.
 - [x] Objections on camera: no time, "my job is my workout", tried programs before, "will I live in the gym" (it doesn't have to be as hard as you think), a coach can't make me (the weekly review), after the busy season. Price and medical stay on the call.
-- [x] One CTA, early (the page asks while the video plays), repeated at the end.
-- [~] Risk reversal: proposed, unapproved. Alternate included.
+- [x] One CTA, "Book a call with my team", early and repeated at the end.
+- [ ] Risk reversal: none on camera (Rich, 2026-11-16: launch without a guarantee, A/B test one later once Josh approves).
 - [x] Compliance: no medical language, no body or weight claims in the spoken text, no scares or diagnoses.
 - [x] Retention cadence: a re-hook about every 60 to 90 seconds (the contrarian lead, the week, "nobody asked you", the three steps, the Tommy card, "my job is my workout", the question).
 
